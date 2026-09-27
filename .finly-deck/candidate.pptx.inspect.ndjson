@@ -1,0 +1,644 @@
+{"kind":"deck","id":"pr/d0hph4","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"Образец заголовка"},{"name":"body","type":"body","textPreview":"Образец текста | Второй уровень | Третий уровень | Четвертый уровень | Пятый уровень"},{"name":"dateTime","type":"dateTime","textPreview":"27.09.2026"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Титульный слайд","type":"title","placeholders":[{"name":"title","type":"title","textPreview":"Образец заголовка"},{"name":"subtitle","type":"subtitle","textPreview":"Образец подзаголовка"},{"name":"dateTime","type":"dateTime","textPreview":"27.09.2026"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"Заголовок и объект","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"Образец заголовка"},{"name":"2","textPreview":"Образец текста | Второй уровень | Третий уровень | Четвертый уровень | Пятый уровень"},{"name":"dateTime","type":"dateTime","textPreview":"27.09.2026"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"Заголовок раздела","type":"secHead","placeholders":[{"name":"title","type":"title","textPreview":"Образец заголовка"},{"name":"body","type":"body","textPreview":"Образец текста"},{"name":"dateTime","type":"dateTime","textPreview":"27.09.2026"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"Два объекта","type":"twoObj","placeholders":[{"name":"title","type":"title","textPreview":"Образец заголовка"},{"name":"2","textPreview":"Образец текста | Второй уровень | Третий уровень | Четвертый уровень | Пятый уровень"},{"name":"3","textPreview":"Образец текста | Второй уровень | Третий уровень | Четвертый уровень | Пятый уровень"},{"name":"dateTime","type":"dateTime","textPreview":"27.09.2026"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"Сравнение","type":"twoTxTwoObj","placeholders":[{"name":"title","type":"title","textPreview":"Образец заголовка"},{"name":"body","type":"body","textPreview":"Образец текста"},{"name":"3","textPreview":"Образец текста | Второй уровень | Третий уровень | Четвертый уровень | Пятый уровень"},{"name":"body","type":"body","textPreview":"Образец текста"},{"name":"5","textPreview":"Образец текста | Второй уровень | Третий уровень | Четвертый уровень | Пятый уровень"},{"name":"dateTime","type":"dateTime","textPreview":"27.09.2026"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"Только заголовок","type":"titleOnly","placeholders":[{"name":"title","type":"title","textPreview":"Образец заголовка"},{"name":"dateTime","type":"dateTime","textPreview":"27.09.2026"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"Пустой слайд","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime","textPreview":"27.09.2026"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout8.xml","name":"Объект с подписью","type":"objTx","placeholders":[{"name":"title","type":"title","textPreview":"Образец заголовка"},{"name":"2","textPreview":"Образец текста | Второй уровень | Третий уровень | Четвертый уровень | Пятый уровень"},{"name":"body","type":"body","textPreview":"Образец текста"},{"name":"dateTime","type":"dateTime","textPreview":"27.09.2026"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout9.xml","name":"Рисунок с подписью","type":"picTx","placeholders":[{"name":"title","type":"title","textPreview":"Образец заголовка"},{"name":"picture","type":"picture"},{"name":"body","type":"body","textPreview":"Образец текста"},{"name":"dateTime","type":"dateTime","textPreview":"27.09.2026"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout10.xml","name":"Заголовок и вертикальный текст","type":"vertTx","placeholders":[{"name":"title","type":"title","textPreview":"Образец заголовка"},{"name":"body","type":"body","textPreview":"Образец текста | Второй уровень | Третий уровень | Четвертый уровень | Пятый уровень"},{"name":"dateTime","type":"dateTime","textPreview":"27.09.2026"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout11.xml","name":"Вертикальный заголовок и текст","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"Образец заголовка"},{"name":"body","type":"body","textPreview":"Образец текста | Второй уровень | Третий уровень | Четвертый уровень | Пятый уровень"},{"name":"dateTime","type":"dateTime","textPreview":"27.09.2026"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"СТАРТАП-ХАКАТОН 2026","textShapes":8}
+{"kind":"shape","id":"sh/547294r6","slide":1,"name":"Background","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/65g3298r","slide":1,"name":"Прямоугольник 4","bbox":[1072,200,9.33,9.33]}
+{"kind":"shape","id":"sh/ts7md4r2","slide":1,"name":"Прямоугольник 5","bbox":[1081.33,200,9.33,9.33]}
+{"kind":"shape","id":"sh/sryl4zqx","slide":1,"name":"Прямоугольник 6","bbox":[1090.67,200,9.33,9.33]}
+{"kind":"shape","id":"sh/fu94fe98","slide":1,"name":"Прямоугольник 7","bbox":[1128,200,9.33,9.33]}
+{"kind":"shape","id":"sh/utg3698n","slide":1,"name":"Прямоугольник 8","bbox":[1137.33,200,9.33,9.33]}
+{"kind":"shape","id":"sh/wn6dc7eh","slide":1,"name":"Прямоугольник 9","bbox":[1146.67,200,9.33,9.33]}
+{"kind":"shape","id":"sh/hofulsf2","slide":1,"name":"Прямоугольник 10","bbox":[1062.67,209.33,9.33,9.33]}
+{"kind":"shape","id":"sh/ul4vaxgb","slide":1,"name":"Прямоугольник 11","bbox":[1100,209.33,9.33,9.33]}
+{"kind":"shape","id":"sh/vmdcj2xw","slide":1,"name":"Прямоугольник 12","bbox":[1118.67,209.33,9.33,9.33]}
+{"kind":"shape","id":"sh/4r6dg7et","slide":1,"name":"Прямоугольник 13","bbox":[1156,209.33,9.33,9.33]}
+{"kind":"shape","id":"sh/5sfepcfe","slide":1,"name":"Прямоугольник 14","bbox":[1053.33,218.67,9.33,9.33]}
+{"kind":"shape","id":"sh/ipovexwn","slide":1,"name":"Прямоугольник 15","bbox":[1109.33,218.67,9.33,9.33]}
+{"kind":"shape","id":"sh/3qxwn2x8","slide":1,"name":"Прямоугольник 16","bbox":[1165.33,218.67,9.33,9.33]}
+{"kind":"shape","id":"sh/sfqdkrep","slide":1,"name":"Прямоугольник 17","bbox":[1053.33,228,9.33,9.33]}
+{"kind":"shape","id":"sh/dgzetcfa","slide":1,"name":"Прямоугольник 18","bbox":[1165.33,228,9.33,9.33]}
+{"kind":"shape","id":"sh/1cvuxc7e","slide":1,"name":"Прямоугольник 19","bbox":[1053.33,237.33,9.33,9.33]}
+{"kind":"shape","id":"sh/0bmd476t","slide":1,"name":"Прямоугольник 20","bbox":[1165.33,237.33,9.33,9.33]}
+{"kind":"shape","id":"sh/zadcv2p8","slide":1,"name":"Прямоугольник 21","bbox":[1062.67,246.67,9.33,9.33]}
+{"kind":"shape","id":"sh/e94v2hon","slide":1,"name":"Прямоугольник 22","bbox":[1156,246.67,9.33,9.33]}
+{"kind":"shape","id":"sh/90ve1w7q","slide":1,"name":"Прямоугольник 23","bbox":[1072,256,9.33,9.33]}
+{"kind":"shape","id":"sh/ozmd8r65","slide":1,"name":"Прямоугольник 24","bbox":[1146.67,256,9.33,9.33]}
+{"kind":"shape","id":"sh/nydczmpk","slide":1,"name":"Прямоугольник 25","bbox":[1081.33,265.33,9.33,9.33]}
+{"kind":"shape","id":"sh/mx4v6hoz","slide":1,"name":"Прямоугольник 26","bbox":[1137.33,265.33,9.33,9.33]}
+{"kind":"shape","id":"sh/p4bu5s76","slide":1,"name":"Прямоугольник 27","bbox":[1090.67,274.67,9.33,9.33]}
+{"kind":"shape","id":"sh/432dwn6l","slide":1,"name":"Прямоугольник 28","bbox":[1128,274.67,9.33,9.33]}
+{"kind":"shape","id":"sh/uxgjq907","slide":1,"name":"Прямоугольник 29","bbox":[1100,284,9.33,9.33]}
+{"kind":"shape","id":"sh/vyp0je1s","slide":1,"name":"Прямоугольник 30","bbox":[1118.67,284,9.33,9.33]}
+{"kind":"shape","id":"sh/wzy1szid","slide":1,"name":"Прямоугольник 31","bbox":[1109.33,293.33,9.33,9.33]}
+{"kind":"textbox","id":"sh/i1gje90j","slide":1,"name":"TextBox 33","text":"СТАРТАП-ХАКАТОН 2026","textPreview":"СТАРТАП-ХАКАТОН 2026","textChars":20,"textLines":1,"bbox":[64,170.67,800,21.33]}
+{"kind":"shape","id":"sh/j2pkne14","slide":1,"name":"Прямоугольник: скругленные углы 34","bbox":[64,202.67,400,37.33]}
+{"kind":"textbox","id":"sh/43y1gji9","slide":1,"name":"TextBox 35","text":"Акселерационная программа «Пятый элемент»","textPreview":"Акселерационная программа «Пятый элемент»","textChars":41,"textLines":1,"bbox":[85.33,209.33,386.67,24]}
+{"kind":"textbox","id":"sh/54r2poju","slide":1,"name":"TextBox 36","text":"Finly\n","textPreview":"Finly |","textChars":6,"textLines":2,"bbox":[64,272,933.33,80]}
+{"kind":"textbox","id":"sh/y5wjip0z","slide":1,"name":"TextBox 37","text":"Показывает, сколько можно тратить в день до стипендии","textPreview":"Показывает, сколько можно тратить в день до стипендии","textChars":53,"textLines":1,"bbox":[64,366,870,76]}
+{"kind":"textbox","id":"sh/z650ba1k","slide":1,"name":"TextBox 38","text":"КОМАНДА","textPreview":"КОМАНДА","textChars":7,"textLines":1,"bbox":[64,461.33,266.67,16]}
+{"kind":"textbox","id":"sh/z2xgf6to","slide":1,"name":"TextBox 39","text":"Рыбы дипсика","textPreview":"Рыбы дипсика","textChars":12,"textLines":1,"bbox":[64,482.67,333.33,26.67]}
+{"kind":"textbox","id":"sh/e1oz61c3","slide":1,"name":"TextBox 40","text":"УЧАСТНИКИ","textPreview":"УЧАСТНИКИ","textChars":9,"textLines":1,"bbox":[426.67,461.33,266.67,16]}
+{"kind":"textbox","id":"sh/14fyhgbe","slide":1,"name":"TextBox 41","text":"Максим Чепиков   /   Пётр Макаров   /   Павел Тагиров","textPreview":"Максим Чепиков   /   Пётр Макаров   /   Павел Тагиров","textChars":53,"textLines":1,"bbox":[426,486,760,58]}
+{"kind":"shape","id":"sh/9sfylgbq","slide":1,"name":"Прямая соединительная линия 45","bbox":[64,637.33,1152,0]}
+{"kind":"image","id":"im/felkjq1s","slide":1,"name":"Рисунок 51","bbox":[120,6.6,1054.67,109.85]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"Максим, 15 секунд. Представляем finly, финансового помощника для студента. Главный вопрос продукта: сколько можно потратить сегодня, чтобы денег хватило до следующего поступления. Команда «Рыбы дипсика»."}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textShapes":9}
+{"kind":"textbox","id":"sh/9072xkry","slide":2,"name":"TextBox 1","text":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textPreview":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textChars":36,"textLines":1,"bbox":[64,34.67,800,18.67]}
+{"kind":"textbox","id":"sh/ozy1ofad","slide":2,"name":"TextBox 2","text":"02 / 13","textPreview":"02 / 13","textChars":7,"textLines":1,"bbox":[1066.67,34.67,149.33,18.67]}
+{"kind":"shape","id":"sh/b29kza94","slide":2,"name":"Прямоугольник 3","bbox":[1195.73,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/a10jqpsj","slide":2,"name":"Прямоугольник 4","bbox":[1197.6,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/x4r21kru","slide":2,"name":"Прямоугольник 5","bbox":[1199.47,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/w3i1sfa9","slide":2,"name":"Прямоугольник 6","bbox":[1206.93,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/r65knqtk","slide":2,"name":"Прямоугольник 7","bbox":[1208.8,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/q5wjelsz","slide":2,"name":"Прямоугольник 8","bbox":[1210.67,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/ove9o7yd","slide":2,"name":"Прямоугольник 9","bbox":[1193.87,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/9wnqhczy","slide":2,"name":"Прямоугольник 10","bbox":[1201.33,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/mtwrmxg7","slide":2,"name":"Прямоугольник 11","bbox":[1205.07,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/nu58f2hs","slide":2,"name":"Прямоугольник 12","bbox":[1212.53,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/wjy9sry9","slide":2,"name":"Прямоугольник 13","bbox":[1192,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/xk7qlczu","slide":2,"name":"Прямоугольник 14","bbox":[1203.2,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/ahwrqhgj","slide":2,"name":"Прямоугольник 15","bbox":[1214.4,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/bip8jmho","slide":2,"name":"Прямоугольник 16","bbox":[1192,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/cnupgny5","slide":2,"name":"Прямоугольник 17","bbox":[1214.4,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/do3q9szq","slide":2,"name":"Прямоугольник 18","bbox":[1192,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/t8byxkn2","slide":2,"name":"Прямоугольник 19","bbox":[1214.4,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/s72xofmh","slide":2,"name":"Прямоугольник 20","bbox":[1193.87,68,1.87,1.87]}
+{"kind":"shape","id":"sh/76twva5c","slide":2,"name":"Прямоугольник 21","bbox":[1212.53,68,1.87,1.87]}
+{"kind":"shape","id":"sh/65kfmpor","slide":2,"name":"Прямоугольник 22","bbox":[1195.73,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/hcvy14ne","slide":2,"name":"Прямоугольник 23","bbox":[1210.67,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/gbmxszmt","slide":2,"name":"Прямоугольник 24","bbox":[1197.6,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/fadgzu58","slide":2,"name":"Прямоугольник 25","bbox":[1208.8,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/u94fqp4n","slide":2,"name":"Прямоугольник 26","bbox":[1199.47,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/p0vy54na","slide":2,"name":"Прямоугольник 27","bbox":[1206.93,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/4zmxwzmp","slide":2,"name":"Прямоугольник 28","bbox":[1201.33,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/mlgvq147","slide":2,"name":"Прямоугольник 29","bbox":[1205.07,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/nmpcj6ls","slide":2,"name":"Прямоугольник 30","bbox":[1203.2,77.33,1.87,1.87]}
+{"kind":"textbox","id":"sh/9o7ulg3y","slide":2,"name":"TextBox 32","text":"Команда","textPreview":"Команда","textChars":7,"textLines":1,"bbox":[76.8,69.2,1093.33,58.67]}
+{"kind":"shape","id":"sh/et8zmto7","slide":2,"name":"Rounded Rectangle 1","bbox":[456,468,368,116]}
+{"kind":"shape","id":"sh/zuh0vypc","slide":2,"name":"Rounded Rectangle 2","bbox":[848,468,368,116]}
+{"kind":"shape","id":"sh/d8zit87m","slide":2,"name":"Rounded Rectangle 4","bbox":[64,468,368,116]}
+{"kind":"textbox","id":"sh/q5ozitov","slide":2,"name":"TextBox 17","text":"Макаров Пётр","textPreview":"Макаров Пётр","textChars":12,"textLines":1,"bbox":[480,486,320,34]}
+{"kind":"textbox","id":"sh/r6x0rypg","slide":2,"name":"TextBox 18","text":"Backend и архитектура","textPreview":"Backend и архитектура","textChars":21,"textLines":1,"bbox":[480,531,320,40]}
+{"kind":"textbox","id":"sh/w3a1wn65","slide":2,"name":"TextBox 19","text":"Тагиров Павел","textPreview":"Тагиров Павел","textChars":13,"textLines":1,"bbox":[872,486,320,34]}
+{"kind":"textbox","id":"sh/xoji5s7q","slide":2,"name":"TextBox 20","text":"Frontend и дизайн","textPreview":"Frontend и дизайн","textChars":17,"textLines":1,"bbox":[872,531,320,40]}
+{"kind":"textbox","id":"sh/5kfipszu","slide":2,"name":"TextBox 23","text":"Чепиков Максим","textPreview":"Чепиков Максим","textChars":14,"textLines":1,"bbox":[88,486,320,34]}
+{"kind":"textbox","id":"sh/kj6hgny9","slide":2,"name":"TextBox 24","text":"Продукт и системный анализ","textPreview":"Продукт и системный анализ","textChars":26,"textLines":1,"bbox":[88,531,320,40]}
+{"kind":"image","id":"im/ozyh83e1","slide":2,"name":"Picture 2","bbox":[109,170,276,280]}
+{"kind":"image","id":"im/p07i18fm","slide":2,"name":"Picture 2","bbox":[501,170,276,280]}
+{"kind":"image","id":"im/e9wz29wz","slide":2,"name":"Picture 2","bbox":[893,170,276,280]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"Максим, 10 секунд. В команде распределены продукт и системный анализ, серверная архитектура, интерфейс и дизайн."}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textShapes":14}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"name":"TextBox 1","text":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textPreview":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textChars":36,"textLines":1,"bbox":[64,34.67,800,18.67]}
+{"kind":"textbox","id":"sh/d0jax03i","slide":3,"name":"TextBox 2","text":"03 / 13","textPreview":"03 / 13","textChars":7,"textLines":1,"bbox":[1066.67,34.67,149.33,18.67]}
+{"kind":"shape","id":"sh/298ryl4v","slide":3,"name":"Прямоугольник 3","bbox":[1195.73,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/3ah8rqlg","slide":3,"name":"Прямоугольник 4","bbox":[1197.6,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/obq90bml","slide":3,"name":"Прямоугольник 5","bbox":[1199.47,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/pcjqtg36","slide":3,"name":"Прямоугольник 6","bbox":[1206.93,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/m5cra54z","slide":3,"name":"Прямоугольник 7","bbox":[1208.8,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/n6ls3alk","slide":3,"name":"Прямоугольник 8","bbox":[1210.67,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/n2l4fq98","slide":3,"name":"Прямоугольник 9","bbox":[1193.87,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/m1c3mlsn","slide":3,"name":"Прямоугольник 10","bbox":[1201.33,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/943mhgre","slide":3,"name":"Прямоугольник 11","bbox":[1205.07,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/83ulovat","slide":3,"name":"Прямоугольник 12","bbox":[1212.53,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/v6l4jq94","slide":3,"name":"Прямоугольник 13","bbox":[1192,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/a5c3ql8z","slide":3,"name":"Прямоугольник 14","bbox":[1203.2,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/x8nml0ra","slide":3,"name":"Прямоугольник 15","bbox":[1214.4,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/w7ulsvqp","slide":3,"name":"Прямоугольник 16","bbox":[1192,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/ja54na9g","slide":3,"name":"Прямоугольник 17","bbox":[1214.4,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/i9w3u58v","slide":3,"name":"Прямоугольник 18","bbox":[1192,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/e10f2twf","slide":3,"name":"Прямоугольник 19","bbox":[1214.4,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/f29gbyx0","slide":3,"name":"Прямоугольник 20","bbox":[1193.87,68,1.87,1.87]}
+{"kind":"shape","id":"sh/03ix43e5","slide":3,"name":"Прямоугольник 21","bbox":[1212.53,68,1.87,1.87]}
+{"kind":"shape","id":"sh/14ryd8fq","slide":3,"name":"Прямоугольник 22","bbox":[1195.73,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/6d0fytg3","slide":3,"name":"Прямоугольник 23","bbox":[1210.67,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/re9g7yxo","slide":3,"name":"Прямоугольник 24","bbox":[1197.6,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/sfix03y9","slide":3,"name":"Прямоугольник 25","bbox":[1208.8,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/tgry9ofu","slide":3,"name":"Прямоугольник 26","bbox":[1199.47,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/a9kfadwn","slide":3,"name":"Прямоугольник 27","bbox":[1206.93,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/batgjixs","slide":3,"name":"Прямоугольник 28","bbox":[1201.33,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/l4fi9cza","slide":3,"name":"Прямоугольник 29","bbox":[1205.07,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/k3m1g7yp","slide":3,"name":"Прямоугольник 30","bbox":[1203.2,77.33,1.87,1.87]}
+{"kind":"textbox","id":"sh/y14jehgj","slide":3,"name":"TextBox 32","text":"Проблема","textPreview":"Проблема","textChars":8,"textLines":1,"bbox":[64,61.33,1093.33,58.67]}
+{"kind":"shape","id":"sh/x0vi5czy","slide":3,"name":"Прямоугольник: скругленные углы 33","bbox":[64,138.67,1152,128]}
+{"kind":"textbox","id":"sh/czmhc7id","slide":3,"name":"TextBox 34","text":"ГЛАВНАЯ ПРОБЛЕМА","textPreview":"ГЛАВНАЯ ПРОБЛЕМА","textChars":16,"textLines":1,"bbox":[96,157.33,266.67,16]}
+{"kind":"textbox","id":"sh/byd032h8","slide":3,"name":"TextBox 35","text":"Студенту сложно понять, хватит ли денег до следующего поступления","textPreview":"Студенту сложно понять, хватит ли денег до следующего поступления","textChars":65,"textLines":1,"bbox":[96,181.33,1088,66.67]}
+{"kind":"shape","id":"sh/ax4zax0n","slide":3,"name":"Прямоугольник: скругленные углы 36","bbox":[64,293.33,369.73,312]}
+{"kind":"textbox","id":"sh/hwzihwzi","slide":3,"name":"Прямоугольник: скругленные углы 37","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[90.67,320,45.33,34.67]}
+{"kind":"textbox","id":"sh/wv61obyx","slide":3,"name":"TextBox 38","text":"КТО?","textPreview":"КТО?","textChars":4,"textLines":1,"bbox":[90.67,376,316.4,21.33]}
+{"kind":"textbox","id":"sh/4nuhs7uh","slide":3,"name":"TextBox 39","text":"Студенты 18–25 лет, которые совмещают учёбу и подработку","textPreview":"Студенты 18–25 лет, которые совмещают учёбу и подработку","textChars":56,"textLines":1,"bbox":[90,410,310,140]}
+{"kind":"shape","id":"sh/po3ilcvm","slide":3,"name":"Прямоугольник: скругленные углы 40","bbox":[455.07,293.33,369.73,312]}
+{"kind":"textbox","id":"sh/21szqxcb","slide":3,"name":"Прямоугольник: скругленные углы 41","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[481.73,320,45.33,34.67]}
+{"kind":"textbox","id":"sh/32l0j2dw","slide":3,"name":"TextBox 42","text":"ЧТО ПРОИСХОДИТ?","textPreview":"ЧТО ПРОИСХОДИТ?","textChars":15,"textLines":1,"bbox":[481.73,376,316.4,21.33]}
+{"kind":"textbox","id":"sh/cruhwrud","slide":3,"name":"TextBox 43","text":"Стипендия приходит по расписанию. Выплаты за смены меняются по сумме и дате.","textPreview":"Стипендия приходит по расписанию. Выплаты за смены меняются по сумме и дате.","textChars":76,"textLines":1,"bbox":[481,410,310,158]}
+{"kind":"shape","id":"sh/ds3ipcvy","slide":3,"name":"Прямоугольник: скругленные углы 44","bbox":[846.13,293.33,369.73,312]}
+{"kind":"textbox","id":"sh/qpczuhc7","slide":3,"name":"Прямоугольник: скругленные углы 45","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[872.8,320,45.33,34.67]}
+{"kind":"textbox","id":"sh/rql0nmds","slide":3,"name":"TextBox 46","text":"ПОЧЕМУ ЭТО ВАЖНО?","textPreview":"ПОЧЕМУ ЭТО ВАЖНО?","textChars":17,"textLines":1,"bbox":[872.8,376,316.4,21.33]}
+{"kind":"textbox","id":"sh/0ve10ru9","slide":3,"name":"TextBox 47","text":"Остаток на карте не показывает, сколько денег останется после обязательных платежей.","textPreview":"Остаток на карте не показывает, сколько денег останется после обязательных платежей.","textChars":84,"textLines":1,"bbox":[873,410,310,158]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"Максим, 25 секунд. Проблема проекта: распределить имеющиеся деньги до следующего поступления при смешанном доходе. Описываем продуктовую гипотезу, а не результаты проведённых интервью. Источник: предоставленный командой Word-документ."}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textShapes":15}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"name":"TextBox 1","text":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textPreview":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textChars":36,"textLines":1,"bbox":[64,34.67,800,18.67]}
+{"kind":"textbox","id":"sh/0ba143al","slide":4,"name":"TextBox 2","text":"04 / 13","textPreview":"04 / 13","textChars":7,"textLines":1,"bbox":[1066.67,34.67,149.33,18.67]}
+{"kind":"shape","id":"sh/rm1k7yt4","slide":4,"name":"Прямоугольник 3","bbox":[1195.73,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/ql8jytsj","slide":4,"name":"Прямоугольник 4","bbox":[1197.6,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/doj29oba","slide":4,"name":"Прямоугольник 5","bbox":[1199.47,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/sna103ap","slide":4,"name":"Прямоугольник 6","bbox":[1206.93,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/3ihk3et8","slide":4,"name":"Прямоугольник 7","bbox":[1208.8,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/ih8ju9sn","slide":4,"name":"Прямоугольник 8","bbox":[1210.67,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/kbm987y5","slide":4,"name":"Прямоугольник 9","bbox":[1193.87,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/5cva1cfq","slide":4,"name":"Прямоугольник 10","bbox":[1201.33,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/i94r6xgz","slide":4,"name":"Прямоугольник 11","bbox":[1205.07,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/jadsz2xk","slide":4,"name":"Прямоугольник 12","bbox":[1212.53,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/w72947yt","slide":4,"name":"Прямоугольник 13","bbox":[1192,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/x8vaxsfe","slide":4,"name":"Прямоугольник 14","bbox":[1203.2,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/a5kr2xg3","slide":4,"name":"Прямоугольник 15","bbox":[1214.4,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/v6tsv2xo","slide":4,"name":"Прямоугольник 16","bbox":[1192,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/g36tgryd","slide":4,"name":"Прямоугольник 17","bbox":[1214.4,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/h4fa9wfy","slide":4,"name":"Прямоугольник 18","bbox":[1192,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/p0batw72","slide":4,"name":"Прямоугольник 19","bbox":[1214.4,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/oz29krqh","slide":4,"name":"Прямоугольник 20","bbox":[1193.87,68,1.87,1.87]}
+{"kind":"shape","id":"sh/3ytsrmpw","slide":4,"name":"Прямоугольник 21","bbox":[1212.53,68,1.87,1.87]}
+{"kind":"shape","id":"sh/2xkrih8b","slide":4,"name":"Прямоугольник 22","bbox":[1195.73,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/1wbapc7q","slide":4,"name":"Прямоугольник 23","bbox":[1210.67,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/gv29g7q5","slide":4,"name":"Прямоугольник 24","bbox":[1197.6,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/fu9sn2p0","slide":4,"name":"Прямоугольник 25","bbox":[1208.8,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/et0reh8f","slide":4,"name":"Прямоугольник 26","bbox":[1199.47,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/tsrqlc7u","slide":4,"name":"Прямоугольник 27","bbox":[1206.93,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/sri9s7q9","slide":4,"name":"Прямоугольник 28","bbox":[1201.33,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/ilwf69kv","slide":4,"name":"Прямоугольник 29","bbox":[1205.07,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/jm5gze1g","slide":4,"name":"Прямоугольник 30","bbox":[1203.2,77.33,1.87,1.87]}
+{"kind":"textbox","id":"sh/5ony1oj6","slide":4,"name":"TextBox 32","text":"Пользователь","textPreview":"Пользователь","textChars":12,"textLines":1,"bbox":[64,61.33,1093.33,58.67]}
+{"kind":"shape","id":"sh/axcf29kj","slide":4,"name":"Прямоугольник: скругленные углы 33","bbox":[64,138.67,400,466.67]}
+{"kind":"shape","id":"sh/vy5gbe14","slide":4,"name":"Овал 34","bbox":[184,170.67,160,160]}
+{"kind":"shape","id":"sh/wzex4z2p","slide":4,"name":"Прямоугольник 35","bbox":[239.33,221.33,6,6]}
+{"kind":"shape","id":"sh/xknyx4ja","slide":4,"name":"Прямоугольник 36","bbox":[245.33,221.33,6,6]}
+{"kind":"shape","id":"sh/mtcfypkn","slide":4,"name":"Прямоугольник 37","bbox":[251.33,221.33,6,6]}
+{"kind":"shape","id":"sh/nulw7u18","slide":4,"name":"Прямоугольник 38","bbox":[275.33,221.33,6,6]}
+{"kind":"shape","id":"sh/fm5c3q54","slide":4,"name":"Прямоугольник 39","bbox":[281.33,221.33,6,6]}
+{"kind":"shape","id":"sh/elwba54j","slide":4,"name":"Прямоугольник 40","bbox":[287.33,221.33,6,6]}
+{"kind":"shape","id":"sh/18nu50nu","slide":4,"name":"Прямоугольник 41","bbox":[233.33,227.33,6,6]}
+{"kind":"shape","id":"sh/0netcvm9","slide":4,"name":"Прямоугольник 42","bbox":[257.33,227.33,6,6]}
+{"kind":"shape","id":"sh/rilczq5s","slide":4,"name":"Прямоугольник 43","bbox":[269.33,227.33,6,6]}
+{"kind":"shape","id":"sh/qhcb6l47","slide":4,"name":"Прямоугольник 44","bbox":[293.33,227.33,6,6]}
+{"kind":"shape","id":"sh/dknu10ny","slide":4,"name":"Прямоугольник 45","bbox":[227.33,233.33,6,6]}
+{"kind":"shape","id":"sh/sjut8vmd","slide":4,"name":"Прямоугольник 46","bbox":[263.33,233.33,6,6]}
+{"kind":"shape","id":"sh/3elcv65w","slide":4,"name":"Прямоугольник 47","bbox":[299.33,233.33,6,6]}
+{"kind":"shape","id":"sh/idcb2lob","slide":4,"name":"Прямоугольник 48","bbox":[227.33,239.33,6,6]}
+{"kind":"shape","id":"sh/8jq9c72t","slide":4,"name":"Прямоугольник 49","bbox":[299.33,239.33,6,6]}
+{"kind":"shape","id":"sh/tkjq5c3e","slide":4,"name":"Прямоугольник 50","bbox":[227.33,245.33,6,6]}
+{"kind":"shape","id":"sh/6x8rahk3","slide":4,"name":"Прямоугольник 51","bbox":[299.33,245.33,6,6]}
+{"kind":"shape","id":"sh/7ih83mlo","slide":4,"name":"Прямоугольник 52","bbox":[233.33,251.33,6,6]}
+{"kind":"shape","id":"sh/gna9gr25","slide":4,"name":"Прямоугольник 53","bbox":[293.33,251.33,6,6]}
+{"kind":"shape","id":"sh/hoja9w3q","slide":4,"name":"Прямоугольник 54","bbox":[239.33,257.33,6,6]}
+{"kind":"shape","id":"sh/ulsrehkz","slide":4,"name":"Прямоугольник 55","bbox":[287.33,257.33,6,6]}
+{"kind":"shape","id":"sh/vm1s7mlk","slide":4,"name":"Прямоугольник 56","bbox":[245.33,263.33,6,6]}
+{"kind":"shape","id":"sh/wr694nm1","slide":4,"name":"Прямоугольник 57","bbox":[281.33,263.33,6,6]}
+{"kind":"shape","id":"sh/xsfqxs36","slide":4,"name":"Прямоугольник 58","bbox":[251.33,269.33,6,6]}
+{"kind":"shape","id":"sh/do761ova","slide":4,"name":"Прямоугольник 59","bbox":[275.33,269.33,6,6]}
+{"kind":"shape","id":"sh/cnyp8jep","slide":4,"name":"Прямоугольник 60","bbox":[257.33,275.33,6,6]}
+{"kind":"shape","id":"sh/bmpozed4","slide":4,"name":"Прямоугольник 61","bbox":[269.33,275.33,6,6]}
+{"kind":"shape","id":"sh/qlg769wj","slide":4,"name":"Прямоугольник 62","bbox":[263.33,281.33,6,6]}
+{"kind":"textbox","id":"sh/0bipc3el","slide":4,"name":"TextBox 64","text":"ПОРТРЕТ ПОЛЬЗОВАТЕЛЯ","textPreview":"ПОРТРЕТ ПОЛЬЗОВАТЕЛЯ","textChars":20,"textLines":1,"bbox":[90.67,354.67,346.67,21.33]}
+{"kind":"textbox","id":"sh/zq9o3ydg","slide":4,"name":"TextBox 65","text":"Студент, который сам считает, хватит ли денег до стипендии","textPreview":"Студент, который сам считает, хватит ли денег до стипендии","textChars":58,"textLines":1,"bbox":[90.67,384,346.67,66.67]}
+{"kind":"textbox","id":"sh/yp07atwv","slide":4,"name":"TextBox 66","text":"Учится очно и подрабатывает\nДоход от смен меняется\nСам оплачивает повседневные расходы","textPreview":"Учится очно и подрабатывает | Доход от смен меняется | Сам оплачивает повседневные расходы","textChars":86,"textLines":3,"bbox":[93,461,340,112]}
+{"kind":"shape","id":"sh/9grq98vi","slide":4,"name":"Прямоугольник: скругленные углы 67","bbox":[490.67,138.67,725.33,141.33]}
+{"kind":"textbox","id":"sh/8fipg3ex","slide":4,"name":"Прямоугольник: скругленные углы 68","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[517.33,168,45.33,34.67]}
+{"kind":"textbox","id":"sh/6psve183","slide":4,"name":"TextBox 69","text":"ОСНОВНАЯ ЦА","textPreview":"ОСНОВНАЯ ЦА","textChars":11,"textLines":1,"bbox":[586.67,168,586.67,18.67]}
+{"kind":"textbox","id":"sh/7a1cn6po","slide":4,"name":"TextBox 70","text":"Студенты 18–25 лет, которые самостоятельно управляют личными расходами","textPreview":"Студенты 18–25 лет, которые самостоятельно управляют личными расходами","textChars":70,"textLines":1,"bbox":[586.67,197.33,600,66.67]}
+{"kind":"shape","id":"sh/8badgbq9","slide":4,"name":"Прямоугольник: скругленные углы 71","bbox":[490.67,301.33,725.33,141.33]}
+{"kind":"textbox","id":"sh/tcjupg7u","slide":4,"name":"Прямоугольник: скругленные углы 72","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[517.33,330.67,45.33,34.67]}
+{"kind":"textbox","id":"sh/udcvil8z","slide":4,"name":"TextBox 73","text":"СЕГМЕНТ","textPreview":"СЕГМЕНТ","textChars":7,"textLines":1,"bbox":[586.67,330.67,586.67,18.67]}
+{"kind":"textbox","id":"sh/velcrqpk","slide":4,"name":"TextBox 74","text":"Стипендия плюс подработка: деньги приходят в разные даты и разными суммами","textPreview":"Стипендия плюс подработка: деньги приходят в разные даты и разными суммами","textChars":74,"textLines":1,"bbox":[586.67,360,600,66.67]}
+{"kind":"shape","id":"sh/gfudkvq5","slide":4,"name":"Прямоугольник: скругленные углы 75","bbox":[490.67,464,725.33,141.33]}
+{"kind":"textbox","id":"sh/hg3et07q","slide":4,"name":"Прямоугольник: скругленные углы 76","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[517.33,493.33,45.33,34.67]}
+{"kind":"textbox","id":"sh/ihcvml8b","slide":4,"name":"TextBox 77","text":"КОНТЕКСТ","textPreview":"КОНТЕКСТ","textChars":8,"textLines":1,"bbox":[586.67,493.33,586.67,18.67]}
+{"kind":"textbox","id":"sh/3ilwvqpw","slide":4,"name":"TextBox 78","text":"Нужно учесть жильё, связь и резерв, прежде чем решить, сколько тратить сегодня","textPreview":"Нужно учесть жильё, связь и резерв, прежде чем решить, сколько тратить сегодня","textChars":78,"textLines":1,"bbox":[586.67,522.67,600,66.67]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"Максим, 20 секунд. Наш стартовый сегмент — студенты со стипендией и подработкой. Проверка востребованности и готовности платить — следующий этап. Оценка 2–2,5 млн из исходных материалов не используется как доказанный размер рынка."}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textShapes":18}
+{"kind":"textbox","id":"sh/dgbulwnm","slide":5,"name":"TextBox 1","text":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textPreview":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textChars":36,"textLines":1,"bbox":[64,34.67,800,18.67]}
+{"kind":"textbox","id":"sh/cf2tcr61","slide":5,"name":"TextBox 2","text":"05 / 13","textPreview":"05 / 13","textChars":7,"textLines":1,"bbox":[1066.67,34.67,149.33,18.67]}
+{"kind":"shape","id":"sh/z2tcnm5s","slide":5,"name":"Прямоугольник 3","bbox":[1195.73,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/yhkbe1o7","slide":5,"name":"Прямоугольник 4","bbox":[1197.6,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/l4bupwny","slide":5,"name":"Прямоугольник 5","bbox":[1199.47,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/032tgr6d","slide":5,"name":"Прямоугольник 6","bbox":[1206.93,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/n6dcr65o","slide":5,"name":"Прямоугольник 7","bbox":[1208.8,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/m5kbi1oj","slide":5,"name":"Прямоугольник 8","bbox":[1210.67,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/w32dkbuh","slide":5,"name":"Прямоугольник 9","bbox":[1193.87,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/x4vedgvm","slide":5,"name":"Прямоугольник 10","bbox":[1201.33,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/ahkvi1cb","slide":5,"name":"Прямоугольник 11","bbox":[1205.07,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/v2twb6dw","slide":5,"name":"Прямоугольник 12","bbox":[1212.53,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/k7mxovud","slide":5,"name":"Прямоугольник 13","bbox":[1192,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/58vehgvy","slide":5,"name":"Прямоугольник 14","bbox":[1203.2,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/i54fmlc7","slide":5,"name":"Прямоугольник 15","bbox":[1214.4,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/j6dwfqds","slide":5,"name":"Прямоугольник 16","bbox":[1192,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/sb6xsvu9","slide":5,"name":"Прямоугольник 17","bbox":[1214.4,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/tcfel0vu","slide":5,"name":"Прямоугольник 18","bbox":[1192,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/hgrmpwj2","slide":5,"name":"Прямоугольник 19","bbox":[1214.4,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/gfi5grih","slide":5,"name":"Прямоугольник 20","bbox":[1193.87,68,1.87,1.87]}
+{"kind":"shape","id":"sh/fe94nm1w","slide":5,"name":"Прямоугольник 21","bbox":[1212.53,68,1.87,1.87]}
+{"kind":"shape","id":"sh/ud0ne10b","slide":5,"name":"Прямоугольник 22","bbox":[1195.73,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/pkr6tgjy","slide":5,"name":"Прямоугольник 23","bbox":[1210.67,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/4ji5kbid","slide":5,"name":"Прямоугольник 24","bbox":[1197.6,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/3i94r61s","slide":5,"name":"Прямоугольник 25","bbox":[1208.8,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/2h0ni107","slide":5,"name":"Прямоугольник 26","bbox":[1199.47,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/5o7mhcju","slide":5,"name":"Прямоугольник 27","bbox":[1206.93,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/kny587i9","slide":5,"name":"Прямоугольник 28","bbox":[1201.33,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/atcjidg7","slide":5,"name":"Прямоугольник 29","bbox":[1205.07,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/vu5kbihc","slide":5,"name":"Прямоугольник 30","bbox":[1203.2,77.33,1.87,1.87]}
+{"kind":"textbox","id":"sh/xwn2dszi","slide":5,"name":"TextBox 32","text":"Предлагаемое решение","textPreview":"Предлагаемое решение","textChars":20,"textLines":1,"bbox":[64,65,1120,58]}
+{"kind":"shape","id":"sh/ihw3mxg3","slide":5,"name":"Прямоугольник: скругленные углы 33","bbox":[64,138.67,693.33,200]}
+{"kind":"textbox","id":"sh/ji5kf2ho","slide":5,"name":"TextBox 34","text":"НАШ ПРОДУКТ","textPreview":"НАШ ПРОДУКТ","textChars":11,"textLines":1,"bbox":[96,160,400,16]}
+{"kind":"textbox","id":"sh/kjelony9","slide":5,"name":"TextBox 35","text":"finly собирает операции и рассчитывает дневной бюджет с учётом платежей, резерва и даты поступления.","textPreview":"finly собирает операции и рассчитывает дневной бюджет с учётом платежей, резерва и даты поступления.","textChars":100,"textLines":1,"bbox":[96,190,625,124]}
+{"kind":"textbox","id":"sh/5kn2hszu","slide":5,"name":"TextBox 36","text":"КАК РЕШАЕМ ПРОБЛЕМУ","textPreview":"КАК РЕШАЕМ ПРОБЛЕМУ","textChars":19,"textLines":1,"bbox":[64,368,693.33,18.67]}
+{"kind":"shape","id":"sh/e1sjatgz","slide":5,"name":"Прямоугольник: скругленные углы 37","bbox":[64,397.33,200,208]}
+{"kind":"textbox","id":"sh/zmlk3yhk","slide":5,"name":"TextBox 38","text":"Проблема","textPreview":"Проблема","textChars":8,"textLines":1,"bbox":[85.33,418.67,157.33,40]}
+{"kind":"textbox","id":"sh/fid07u98","slide":5,"name":"TextBox 39","text":"Непонятно, сколько можно потратить","textPreview":"Непонятно, сколько можно потратить","textChars":34,"textLines":1,"bbox":[85,480,157,105]}
+{"kind":"textbox","id":"sh/ehkzepsn","slide":5,"name":"TextBox 40","text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[269.33,485.33,32,32]}
+{"kind":"shape","id":"sh/1kvi94re","slide":5,"name":"Прямоугольник: скругленные углы 41","bbox":[306.67,397.33,200,208]}
+{"kind":"textbox","id":"sh/gjmhgzqt","slide":5,"name":"TextBox 42","text":"Механика решения","textPreview":"Механика решения","textChars":16,"textLines":1,"bbox":[328,418.67,157.33,40]}
+{"kind":"textbox","id":"sh/3md0bu94","slide":5,"name":"TextBox 43","text":"Учитываем остаток и будущие платежи","textPreview":"Учитываем остаток и будущие платежи","textChars":35,"textLines":1,"bbox":[328,480,157,105]}
+{"kind":"textbox","id":"sh/2l4zip8j","slide":5,"name":"TextBox 44","text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[512,485.33,32,32]}
+{"kind":"shape","id":"sh/povid4ra","slide":5,"name":"Прямоугольник: скругленные углы 45","bbox":[549.33,397.33,200,208]}
+{"kind":"textbox","id":"sh/onmhkzqp","slide":5,"name":"TextBox 46","text":"Результат","textPreview":"Результат","textChars":9,"textLines":1,"bbox":[570.67,418.67,157.33,40]}
+{"kind":"textbox","id":"sh/bqx0fe9g","slide":5,"name":"TextBox 47","text":"Понятный лимит на каждый день","textPreview":"Понятный лимит на каждый день","textChars":29,"textLines":1,"bbox":[571,480,157,105]}
+{"kind":"shape","id":"sh/8f6hcj6t","slide":5,"name":"TextBox 49","bbox":[810.67,348,384,21.33]}
+{"kind":"textbox","id":"sh/9gfy5o7e","slide":5,"text":"НАЧАТЬ МОЖНО С ВЫПИСКИ","textPreview":"НАЧАТЬ МОЖНО С ВЫПИСКИ","textChars":22,"textLines":1,"bbox":[800,167,410,28]}
+{"kind":"textbox","id":"sh/mdoza9o3","slide":5,"text":"PDF или CSV","textPreview":"PDF или CSV","textChars":11,"textLines":1,"bbox":[800,216,410,55]}
+{"kind":"textbox","id":"sh/nexg3epo","slide":5,"text":"Пользователь проверяет операции перед сохранением","textPreview":"Пользователь проверяет операции перед сохранением","textChars":49,"textLines":1,"bbox":[800,283,410,110]}
+{"kind":"textbox","id":"sh/0r6h8z6x","slide":5,"text":"Для демонстрации автоматизации подключён учебный банк","textPreview":"Для демонстрации автоматизации подключён учебный банк","textChars":53,"textLines":1,"bbox":[800,440,410,120]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"Максим, 25 секунд. Начать можно с импорта выписки. CSV разбирает локальный сервер. Для PDF пользователь проверяет очищенный текст и разрешает обработку моделью. До подтверждения строки не попадают в историю операций."}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textShapes":12}
+{"kind":"textbox","id":"sh/yhg7epsj","slide":6,"name":"TextBox 1","text":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textPreview":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textChars":36,"textLines":1,"bbox":[64,34.67,800,18.67]}
+{"kind":"textbox","id":"sh/zi98nu94","slide":6,"name":"TextBox 2","text":"06 / 13","textPreview":"06 / 13","textChars":7,"textLines":1,"bbox":[1066.67,34.67,149.33,18.67]}
+{"kind":"shape","id":"sh/87ipkzal","slide":6,"name":"Прямоугольник 3","bbox":[1195.73,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/98rqt4r6","slide":6,"name":"Прямоугольник 4","bbox":[1197.6,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/ml07i9sv","slide":6,"name":"Прямоугольник 5","bbox":[1199.47,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/7m98ru9g","slide":6,"name":"Прямоугольник 6","bbox":[1206.93,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/oryp8fah","slide":6,"name":"Прямоугольник 7","bbox":[1208.8,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/pc76hkr2","slide":6,"name":"Прямоугольник 8","bbox":[1210.67,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/h4bupgn6","slide":6,"name":"Прямоугольник 9","bbox":[1193.87,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/w32twb6l","slide":6,"name":"Прямоугольник 10","bbox":[1201.33,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/v2tcn650","slide":6,"name":"Прямоугольник 11","bbox":[1205.07,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/u1kbu1ov","slide":6,"name":"Прямоугольник 12","bbox":[1212.53,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/5svutgni","slide":6,"name":"Прямоугольник 13","bbox":[1192,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/47mt0b6x","slide":6,"name":"Прямоугольник 14","bbox":[1203.2,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/j6dcr65c","slide":6,"name":"Прямоугольник 15","bbox":[1214.4,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/i54bylor","slide":6,"name":"Прямоугольник 16","bbox":[1192,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/twfux0ne","slide":6,"name":"Прямоугольник 17","bbox":[1214.4,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/svmt4v6t","slide":6,"name":"Прямоугольник 18","bbox":[1192,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/cbe5g3ih","slide":6,"name":"Прямоугольник 19","bbox":[1214.4,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/dcnm98zm","slide":6,"name":"Прямоугольник 20","bbox":[1193.87,68,1.87,1.87]}
+{"kind":"shape","id":"sh/qpwnet0b","slide":6,"name":"Прямоугольник 21","bbox":[1212.53,68,1.87,1.87]}
+{"kind":"shape","id":"sh/bq547yhw","slide":6,"name":"Прямоугольник 22","bbox":[1195.73,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/0fy5k3id","slide":6,"name":"Прямоугольник 23","bbox":[1210.67,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/lg76d8zy","slide":6,"name":"Прямоугольник 24","bbox":[1197.6,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/ydgnit07","slide":6,"name":"Прямоугольник 25","bbox":[1208.8,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/zep4byhs","slide":6,"name":"Прямоугольник 26","bbox":[1199.47,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/gju58ji9","slide":6,"name":"Прямоугольник 27","bbox":[1206.93,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/1k3mhozu","slide":6,"name":"Прямоугольник 28","bbox":[1201.33,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/jet8nm1c","slide":6,"name":"Прямоугольник 29","bbox":[1205.07,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/idk7ehkr","slide":6,"name":"Прямоугольник 30","bbox":[1203.2,77.33,1.87,1.87]}
+{"kind":"textbox","id":"sh/4f2pgr2h","slide":6,"name":"TextBox 32","text":"Ценность","textPreview":"Ценность","textChars":8,"textLines":1,"bbox":[64,61.33,1093.33,58.67]}
+{"kind":"textbox","id":"sh/va98j210","slide":6,"name":"TextBox 33","text":"Понятный ориентир для ежедневных трат","textPreview":"Понятный ориентир для ежедневных трат","textChars":37,"textLines":1,"bbox":[64,139,1140,44]}
+{"kind":"textbox","id":"sh/u907axkf","slide":6,"text":"ПРИМЕР РАСЧЁТА","textPreview":"ПРИМЕР РАСЧЁТА","textChars":14,"textLines":1,"bbox":[64,227,620,25]}
+{"kind":"textbox","id":"sh/hcrqlcj6","slide":6,"text":"20 000 ₽","textPreview":"20 000 ₽","textChars":8,"textLines":1,"bbox":[64,273,500,70]}
+{"kind":"textbox","id":"sh/wbipc72l","slide":6,"text":"известный остаток","textPreview":"известный остаток","textChars":17,"textLines":1,"bbox":[64,348,500,38]}
+{"kind":"textbox","id":"sh/7698f214","slide":6,"text":"3 000 ₽  обязательные платежи\n2 000 ₽  резерв\n10 дней  до поступления","textPreview":"3 000 ₽  обязательные платежи | 2 000 ₽  резерв | 10 дней  до поступления","textChars":69,"textLines":3,"bbox":[64,409,510,130]}
+{"kind":"textbox","id":"sh/m5076xkj","slide":6,"text":"1 500 ₽","textPreview":"1 500 ₽","textChars":7,"textLines":1,"bbox":[704,269,490,90]}
+{"kind":"textbox","id":"sh/2dkbalg3","slide":6,"text":"можно тратить в день","textPreview":"можно тратить в день","textChars":20,"textLines":1,"bbox":[704,372,470,50]}
+{"kind":"textbox","id":"sh/netcjqxo","slide":6,"text":"(20 000 − 3 000 − 2 000) / 10","textPreview":"(20 000 − 3 000 − 2 000) / 10","textChars":29,"textLines":1,"bbox":[704,452,485,42]}
+{"kind":"textbox","id":"sh/of2tcvy9","slide":6,"text":"Условный пример без холдов. Эффект для пользователей проверим на пилоте.","textPreview":"Условный пример без холдов. Эффект для пользователей проверим на пилоте.","textChars":72,"textLines":1,"bbox":[64,607,1150,44]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"Пётр, 25 секунд. Это арифметический пример, а не измеренный результат пользователей. Из остатка вычитаем платежи и резерв, делим на дни. Холды тоже уменьшают доступный бюджет. Пользовательский лимит может ограничить результат. Расчёты в backend/budget.py."}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textShapes":16}
+{"kind":"textbox","id":"sh/cb2tkvap","slide":7,"name":"TextBox 1","text":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textPreview":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textChars":36,"textLines":1,"bbox":[64,34.67,800,18.67]}
+{"kind":"textbox","id":"sh/dcbud0ra","slide":7,"name":"TextBox 2","text":"07 / 13","textPreview":"07 / 13","textChars":7,"textLines":1,"bbox":[1066.67,34.67,149.33,18.67]}
+{"kind":"shape","id":"sh/ydkbm5sv","slide":7,"name":"Прямоугольник 3","bbox":[1195.73,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/zedcfa9g","slide":7,"name":"Прямоугольник 4","bbox":[1197.6,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/kzmdova1","slide":7,"name":"Прямоугольник 5","bbox":[1199.47,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/l0vuh0rm","slide":7,"name":"Прямоугольник 6","bbox":[1206.93,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/eh0ba1sr","slide":7,"name":"Прямоугольник 7","bbox":[1208.8,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/fi9c369c","slide":7,"name":"Прямоугольник 8","bbox":[1210.67,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/baxkjqlk","slide":7,"name":"Прямоугольник 9","bbox":[1193.87,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/a9ojq5kz","slide":7,"name":"Прямоугольник 10","bbox":[1201.33,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/xcz2l03q","slide":7,"name":"Прямоугольник 11","bbox":[1205.07,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/cbq1sv25","slide":7,"name":"Прямоугольник 12","bbox":[1212.53,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/n6x0fqlo","slide":7,"name":"Прямоугольник 13","bbox":[1192,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/25ojml43","slide":7,"name":"Прямоугольник 14","bbox":[1203.2,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/p8fih03e","slide":7,"name":"Прямоугольник 15","bbox":[1214.4,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/o761ov2t","slide":7,"name":"Прямоугольник 16","bbox":[1192,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/f2d0b6lc","slide":7,"name":"Прямоугольник 17","bbox":[1214.4,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/eh4jil4r","slide":7,"name":"Прямоугольник 18","bbox":[1192,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/id4ju1oz","slide":7,"name":"Прямоугольник 19","bbox":[1214.4,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/jedkn654","slide":7,"name":"Прямоугольник 20","bbox":[1193.87,68,1.87,1.87]}
+{"kind":"shape","id":"sh/4fm1wb6p","slide":7,"name":"Прямоугольник 21","bbox":[1212.53,68,1.87,1.87]}
+{"kind":"shape","id":"sh/50v2pgna","slide":7,"name":"Прямоугольник 22","bbox":[1195.73,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/q143ylov","slide":7,"name":"Прямоугольник 23","bbox":[1210.67,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/r2dkrq5g","slide":7,"name":"Прямоугольник 24","bbox":[1197.6,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/s3ml0v61","slide":7,"name":"Прямоугольник 25","bbox":[1208.8,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/d4f2t0nm","slide":7,"name":"Прямоугольник 26","bbox":[1199.47,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/e5o32lor","slide":7,"name":"Прямоугольник 27","bbox":[1206.93,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/f6xkvq5c","slide":7,"name":"Прямоугольник 28","bbox":[1201.33,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/p0zmlk7u","slide":7,"name":"Прямоугольник 29","bbox":[1205.07,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/ozq5szq9","slide":7,"name":"Прямоугольник 30","bbox":[1203.2,77.33,1.87,1.87]}
+{"kind":"textbox","id":"sh/2x8nqp83","slide":7,"name":"TextBox 32","text":"Ключевые возможности","textPreview":"Ключевые возможности","textChars":20,"textLines":1,"bbox":[64,61.33,1093.33,58.67]}
+{"kind":"textbox","id":"sh/x4j6p47q","slide":7,"text":"Импорт PDF и CSV","textPreview":"Импорт PDF и CSV","textChars":16,"textLines":1,"bbox":[64,176,535,40]}
+{"kind":"textbox","id":"sh/c3a5wzq5","slide":7,"text":"Проверка строк до подтверждения","textPreview":"Проверка строк до подтверждения","textChars":31,"textLines":1,"bbox":[64,225,530,65]}
+{"kind":"textbox","id":"sh/b2h4nupk","slide":7,"text":"Бюджет до поступления","textPreview":"Бюджет до поступления","textChars":21,"textLines":1,"bbox":[664,176,535,40]}
+{"kind":"textbox","id":"sh/a18nup8z","slide":7,"text":"Платежи, резерв и дневной лимит","textPreview":"Платежи, резерв и дневной лимит","textChars":31,"textLines":1,"bbox":[664,225,530,65]}
+{"kind":"textbox","id":"sh/lsj6t47m","slide":7,"text":"Операции и аналитика","textPreview":"Операции и аналитика","textChars":20,"textLines":1,"bbox":[64,324,535,40]}
+{"kind":"textbox","id":"sh/kra50jqh","slide":7,"text":"Категории расходов и история","textPreview":"Категории расходов и история","textChars":28,"textLines":1,"bbox":[64,373,530,65]}
+{"kind":"textbox","id":"sh/wneps3ap","slide":7,"text":"Учебный банковский API","textPreview":"Учебный банковский API","textChars":22,"textLines":1,"bbox":[664,324,535,40]}
+{"kind":"textbox","id":"sh/honq18ru","slide":7,"text":"Счета, остатки и синхронизация","textPreview":"Счета, остатки и синхронизация","textChars":30,"textLines":1,"bbox":[664,373,530,65]}
+{"kind":"textbox","id":"sh/ulc7qdsj","slide":7,"text":"Предупреждения","textPreview":"Предупреждения","textChars":14,"textLines":1,"bbox":[64,472,535,40]}
+{"kind":"textbox","id":"sh/vm58zi94","slide":7,"text":"Крупная покупка и превышение лимита","textPreview":"Крупная покупка и превышение лимита","textChars":35,"textLines":1,"bbox":[64,521,530,65]}
+{"kind":"textbox","id":"sh/8jupo3ad","slide":7,"text":"AI-помощник","textPreview":"AI-помощник","textChars":11,"textLines":1,"bbox":[664,472,535,40]}
+{"kind":"textbox","id":"sh/9k3qx8ry","slide":7,"text":"Объясняет расчётные показатели","textPreview":"Объясняет расчётные показатели","textChars":30,"textLines":1,"bbox":[664,521,530,65]}
+{"kind":"textbox","id":"sh/mxc7mts7","slide":7,"text":"Локальный MVP. Реальные банковские счета и платежи не подключены.","textPreview":"Локальный MVP. Реальные банковские счета и платежи не подключены.","textChars":65,"textLines":1,"bbox":[64,647,1150,30]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"Павел, 20 секунд. Эти возможности реализованы в локальном MVP. Интерфейс на Next.js и React, backend на FastAPI, база приложения SQLite. Источники: backend/app.py, frontend/finly/App.tsx."}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"ГЛАВНОЕ ОТЛИЧИЕ","textShapes":15}
+{"kind":"textbox","id":"sh/18byd4zy","slide":8,"name":"TextBox 1","text":"ГЛАВНОЕ ОТЛИЧИЕ","textPreview":"ГЛАВНОЕ ОТЛИЧИЕ","textChars":15,"textLines":1,"bbox":[64,34.67,800,18.67]}
+{"kind":"textbox","id":"sh/g72x4zyd","slide":8,"name":"TextBox 2","text":"08 / 13","textPreview":"08 / 13","textChars":7,"textLines":1,"bbox":[1066.67,34.67,149.33,18.67]}
+{"kind":"shape","id":"sh/ri9g7uhw","slide":8,"name":"Прямоугольник 3","bbox":[1195.73,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/6h0fypgb","slide":8,"name":"Прямоугольник 4","bbox":[1197.6,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/tkby9kzm","slide":8,"name":"Прямоугольник 5","bbox":[1199.47,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/sjix0zy1","slide":8,"name":"Прямоугольник 6","bbox":[1206.93,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/je9g3ahk","slide":8,"name":"Прямоугольник 7","bbox":[1208.8,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/id0fu50z","slide":8,"name":"Прямоугольник 8","bbox":[1210.67,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/o7ydoret","slide":8,"name":"Прямоугольник 9","bbox":[1193.87,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/98rehwve","slide":8,"name":"Прямоугольник 10","bbox":[1201.33,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/m5gvmhwn","slide":8,"name":"Прямоугольник 11","bbox":[1205.07,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/n6pwfmd8","slide":8,"name":"Прямоугольник 12","bbox":[1212.53,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/0jydkreh","slide":8,"name":"Прямоугольник 13","bbox":[1192,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/1k7edwv2","slide":8,"name":"Прямоугольник 14","bbox":[1203.2,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/ehgvihwr","slide":8,"name":"Прямоугольник 15","bbox":[1214.4,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/zipwbmdc","slide":8,"name":"Прямоугольник 16","bbox":[1192,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/kfixwbe1","slide":8,"name":"Прямоугольник 17","bbox":[1214.4,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/lgbepgvm","slide":8,"name":"Прямоугольник 18","bbox":[1192,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/tw7e9gnq","slide":8,"name":"Прямоугольник 19","bbox":[1214.4,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/svydgb65","slide":8,"name":"Прямоугольник 20","bbox":[1193.87,68,1.87,1.87]}
+{"kind":"shape","id":"sh/7u5w765k","slide":8,"name":"Прямоугольник 21","bbox":[1212.53,68,1.87,1.87]}
+{"kind":"shape","id":"sh/6twve1oz","slide":8,"name":"Прямоугольник 22","bbox":[1195.73,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/5sne5wne","slide":8,"name":"Прямоугольник 23","bbox":[1210.67,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/kredcr6t","slide":8,"name":"Прямоугольник 24","bbox":[1197.6,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/jq5w365o","slide":8,"name":"Прямоугольник 25","bbox":[1208.8,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/i5wva1o3","slide":8,"name":"Прямоугольник 26","bbox":[1199.47,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/x4ne1wni","slide":8,"name":"Прямоугольник 27","bbox":[1206.93,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/w3ed8r6x","slide":8,"name":"Прямоугольник 28","bbox":[1201.33,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/m9sb2x4v","slide":8,"name":"Прямоугольник 29","bbox":[1205.07,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/na1sb2lg","slide":8,"name":"Прямоугольник 30","bbox":[1203.2,77.33,1.87,1.87]}
+{"kind":"textbox","id":"sh/9w3uds36","slide":8,"name":"TextBox 32","text":"Бюджет после каждой покупки","textPreview":"Бюджет после каждой покупки","textChars":27,"textLines":1,"bbox":[64,61.33,1093.33,58.67]}
+{"kind":"shape","id":"sh/y5sbed4j","slide":8,"name":"Прямоугольник: скругленные углы 33","bbox":[64,138.67,693.33,466.67]}
+{"kind":"textbox","id":"sh/z61s7il4","slide":8,"name":"TextBox 34","text":"КЛЮЧЕВАЯ ОСОБЕННОСТЬ","textPreview":"КЛЮЧЕВАЯ ОСОБЕННОСТЬ","textChars":20,"textLines":1,"bbox":[101.33,170.67,400,16]}
+{"kind":"textbox","id":"sh/07atgnmp","slide":8,"name":"TextBox 35","text":"Покупка меняет\nплан на оставшиеся дни","textPreview":"Покупка меняет | план на оставшиеся дни","textChars":37,"textLines":2,"bbox":[101.33,200,618.67,120]}
+{"kind":"textbox","id":"sh/l8ja9s3a","slide":8,"name":"TextBox 36","text":"Новая операция уменьшает доступную сумму. finly пересчитывает дневной бюджет и обновляет открытый экран.","textPreview":"Новая операция уменьшает доступную сумму. finly пересчитывает дневной бюджет и обновляет открытый экран.","textChars":104,"textLines":1,"bbox":[101.33,341.33,618.67,120]}
+{"kind":"shape","id":"sh/q18bad4n","slide":8,"name":"Прямоугольник: скругленные углы 37","bbox":[101.33,490.67,618.67,77.33]}
+{"kind":"textbox","id":"sh/b2hs3il8","slide":8,"name":"TextBox 38","text":"ПОКАЖЕМ НА ДЕМО","textPreview":"ПОКАЖЕМ НА ДЕМО","textChars":15,"textLines":1,"bbox":[128,504,565.33,18.67]}
+{"kind":"textbox","id":"sh/3u18fepo","slide":8,"name":"TextBox 39","text":"Расход 12 000 ₽ изменит остаток и лимит","textPreview":"Расход 12 000 ₽ изменит остаток и лимит","textChars":39,"textLines":1,"bbox":[128,528,565.33,26.67]}
+{"kind":"textbox","id":"sh/2ts769o3","slide":8,"name":"TextBox 40","text":"ФОКУС ПРОДУКТА","textPreview":"ФОКУС ПРОДУКТА","textChars":14,"textLines":1,"bbox":[789.33,138.67,426.67,18.67]}
+{"kind":"shape","id":"sh/pwjqho7u","slide":8,"name":"Прямоугольник: скругленные углы 41","bbox":[789.33,170.67,426.67,202.67]}
+{"kind":"textbox","id":"sh/4vap8j69","slide":8,"name":"Прямоугольник: скругленные углы 42","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[816,197.33,45.33,34.67]}
+{"kind":"textbox","id":"sh/fq1obeps","slide":8,"name":"TextBox 43","text":"До следующего поступления","textPreview":"До следующего поступления","textChars":25,"textLines":1,"bbox":[816,250.67,373.33,26.67]}
+{"kind":"textbox","id":"sh/up872987","slide":8,"name":"TextBox 44","text":"Планирование вокруг даты стипендии и известных обязательств","textPreview":"Планирование вокруг даты стипендии и известных обязательств","textChars":59,"textLines":1,"bbox":[816,285.33,373.33,74.67]}
+{"kind":"shape","id":"sh/hsjqd47y","slide":8,"name":"Прямоугольник: скругленные углы 45","bbox":[789.33,394.67,426.67,202.67]}
+{"kind":"textbox","id":"sh/grap4zqd","slide":8,"name":"Прямоугольник: скругленные углы 46","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[816,421.33,45.33,34.67]}
+{"kind":"textbox","id":"sh/72ho7upg","slide":8,"name":"TextBox 47","text":"Объяснимые суммы","textPreview":"Объяснимые суммы","textChars":16,"textLines":1,"bbox":[816,474.67,373.33,26.67]}
+{"kind":"textbox","id":"sh/6187yp8b","slide":8,"name":"TextBox 48","text":"Сервер считает бюджет. AI выбирает объяснения по этим данным.","textPreview":"Сервер считает бюджет. AI выбирает объяснения по этим данным.","textChars":61,"textLines":1,"bbox":[816,509.33,373.33,74.67]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"Пётр, 25 секунд. Ключевой сценарий — реакция бюджета на конкретную покупку. SSE доставляет событие в браузер, затем интерфейс запрашивает свежий снимок. Модель выбирает разделы объяснения, а суммы подставляет сервер. Это фокус продукта, без заявления об отсутствии аналогов."}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textShapes":18}
+{"kind":"textbox","id":"sh/1cfmhgne","slide":9,"name":"TextBox 1","text":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textPreview":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textChars":36,"textLines":1,"bbox":[64,34.67,800,18.67]}
+{"kind":"textbox","id":"sh/0b65obm9","slide":9,"name":"TextBox 2","text":"09 / 13","textPreview":"09 / 13","textChars":7,"textLines":1,"bbox":[1066.67,34.67,149.33,18.67]}
+{"kind":"shape","id":"sh/nex4jq5k","slide":9,"name":"Прямоугольник 3","bbox":[1195.73,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/mdonql4z","slide":9,"name":"Прямоугольник 4","bbox":[1197.6,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/9gzml0nq","slide":9,"name":"Прямоугольник 5","bbox":[1199.47,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/ofq5svm5","slide":9,"name":"Прямоугольник 6","bbox":[1206.93,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/bih4na5w","slide":9,"name":"Прямоугольник 7","bbox":[1208.8,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/ah8nu54b","slide":9,"name":"Прямоугольник 8","bbox":[1210.67,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/oza1gfyh","slide":9,"name":"Прямоугольник 9","bbox":[1193.87,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/p0ji9kf2","slide":9,"name":"Прямоугольник 10","bbox":[1201.33,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/2xsjepgb","slide":9,"name":"Прямоугольник 11","bbox":[1205.07,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/3y107axw","slide":9,"name":"Прямоугольник 12","bbox":[1212.53,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/cnu1kzyd","slide":9,"name":"Прямоугольник 13","bbox":[1192,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/do3id4fy","slide":9,"name":"Прямоугольник 14","bbox":[1203.2,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/qlcjipgn","slide":9,"name":"Прямоугольник 15","bbox":[1214.4,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/bml0buxs","slide":9,"name":"Прямоугольник 16","bbox":[1192,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/0ru1ozyp","slide":9,"name":"Прямоугольник 17","bbox":[1214.4,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/lsn2h4fa","slide":9,"name":"Прямоугольник 18","bbox":[1192,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/98ji147e","slide":9,"name":"Прямоугольник 19","bbox":[1214.4,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/87a18zqt","slide":9,"name":"Прямоугольник 20","bbox":[1193.87,68,1.87,1.87]}
+{"kind":"shape","id":"sh/76h0zup8","slide":9,"name":"Прямоугольник 21","bbox":[1212.53,68,1.87,1.87]}
+{"kind":"shape","id":"sh/ml8j6p8n","slide":9,"name":"Прямоугольник 22","bbox":[1195.73,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/hcji5o7a","slide":9,"name":"Прямоугольник 23","bbox":[1210.67,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/wba1cjqp","slide":9,"name":"Прямоугольник 24","bbox":[1197.6,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/va103ep4","slide":9,"name":"Прямоугольник 25","bbox":[1208.8,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/u9sja98z","slide":9,"name":"Прямоугольник 26","bbox":[1199.47,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/xgzitk76","slide":9,"name":"Прямоугольник 27","bbox":[1206.93,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/cf6h0fql","slide":9,"name":"Прямоугольник 28","bbox":[1201.33,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/2l4faloj","slide":9,"name":"Прямоугольник 29","bbox":[1205.07,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/nmdg3q54","slide":9,"name":"Прямоугольник 30","bbox":[1203.2,77.33,1.87,1.87]}
+{"kind":"textbox","id":"sh/pofy50nu","slide":9,"name":"TextBox 32","text":"Как это работает","textPreview":"Как это работает","textChars":16,"textLines":1,"bbox":[64,61.33,1093.33,58.67]}
+{"kind":"textbox","id":"sh/apofe5of","slide":9,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[64,177,200,74]}
+{"kind":"textbox","id":"sh/bqxg7q50","slide":9,"text":"Загрузка","textPreview":"Загрузка","textChars":8,"textLines":1,"bbox":[64,267,250,47]}
+{"kind":"textbox","id":"sh/cr6xgv6l","slide":9,"text":"Выписка или учебный банк","textPreview":"Выписка или учебный банк","textChars":24,"textLines":1,"bbox":[64,329,250,90]}
+{"kind":"textbox","id":"sh/xcfy90n6","slide":9,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[360,177,200,74]}
+{"kind":"textbox","id":"sh/qtkf21ob","slide":9,"text":"Проверка","textPreview":"Проверка","textChars":8,"textLines":1,"bbox":[360,267,250,47]}
+{"kind":"textbox","id":"sh/rutwv65w","slide":9,"text":"Операции и известный остаток","textPreview":"Операции и известный остаток","textChars":28,"textLines":1,"bbox":[360,329,250,90]}
+{"kind":"textbox","id":"sh/7y14jyd8","slide":9,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[656,177,200,74]}
+{"kind":"textbox","id":"sh/mdsnatcn","slide":9,"text":"План","textPreview":"План","textChars":4,"textLines":1,"bbox":[656,267,250,47]}
+{"kind":"textbox","id":"sh/903ml8be","slide":9,"text":"Платежи, резерв и дата дохода","textPreview":"Платежи, резерв и дата дохода","textChars":29,"textLines":1,"bbox":[656,329,250,90]}
+{"kind":"textbox","id":"sh/8zu5c3ut","slide":9,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[952,177,200,74]}
+{"kind":"textbox","id":"sh/v2l4nitk","slide":9,"text":"Результат","textPreview":"Результат","textChars":9,"textLines":1,"bbox":[952,267,250,47]}
+{"kind":"textbox","id":"sh/u1cnedcz","slide":9,"text":"Дневной бюджет и объяснение","textPreview":"Дневной бюджет и объяснение","textChars":27,"textLines":1,"bbox":[952,329,250,90]}
+{"kind":"textbox","id":"sh/h43mp8ba","slide":9,"text":"КАК ПРИХОДЯТ ДАННЫЕ БАНКА","textPreview":"КАК ПРИХОДЯТ ДАННЫЕ БАНКА","textChars":25,"textLines":1,"bbox":[64,487,1150,26]}
+{"kind":"textbox","id":"sh/w3u5g3u5","slide":9,"text":"Вход и токен   /   Счета и операции   /   Остатки   /   Пересчёт бюджета","textPreview":"Вход и токен   /   Счета и операции   /   Остатки   /   Пересчёт бюджета","textChars":72,"textLines":1,"bbox":[64,534,1150,60]}
+{"kind":"textbox","id":"sh/j6l4ritg","slide":9,"text":"Опрос банка каждые 15 секунд. События SSE обновляют интерфейс.","textPreview":"Опрос банка каждые 15 секунд. События SSE обновляют интерфейс.","textChars":62,"textLines":1,"bbox":[64,628,1150,34]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"Пётр, 30 секунд. POST /auth/login получает токен. GET /accounts возвращает счета. По каждому счёту запрашиваются /transactions и /balances. Повторная синхронизация не дублирует историю. Банк опрашиваем по HTTP, браузеру отправляем SSE. Покупки лаборатории создаются в отдельном симуляторе, а не в банке. Источник: backend/bank_in_a_box.py, backend/app.py."}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textShapes":11}
+{"kind":"textbox","id":"sh/xc3mho32","slide":10,"name":"TextBox 1","text":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textPreview":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textChars":36,"textLines":1,"bbox":[64,34.67,800,18.67]}
+{"kind":"textbox","id":"sh/cbu58j2h","slide":10,"name":"TextBox 2","text":"10 / 13","textPreview":"10 / 13","textChars":7,"textLines":1,"bbox":[1066.67,34.67,149.33,18.67]}
+{"kind":"shape","id":"sh/zelojyl8","slide":10,"name":"Прямоугольник 3","bbox":[1195.73,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/ydcnatkn","slide":10,"name":"Прямоугольник 4","bbox":[1197.6,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/l036l83y","slide":10,"name":"Прямоугольник 5","bbox":[1199.47,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/kzu5c32t","slide":10,"name":"Прямоугольник 6","bbox":[1206.93,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/725onyl4","slide":10,"name":"Прямоугольник 7","bbox":[1208.8,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/m1cnetkj","slide":10,"name":"Прямоугольник 8","bbox":[1210.67,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/s7yt4b21","slide":10,"name":"Прямоугольник 9","bbox":[1193.87,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/d87uxg3m","slide":10,"name":"Прямоугольник 10","bbox":[1201.33,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/q5gb21kb","slide":10,"name":"Прямоугольник 11","bbox":[1205.07,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/r6pcv6lw","slide":10,"name":"Прямоугольник 12","bbox":[1212.53,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/0bit8b2d","slide":10,"name":"Прямоугольник 13","bbox":[1192,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/1cru1g3y","slide":10,"name":"Прямоугольник 14","bbox":[1203.2,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/e9gb61k7","slide":10,"name":"Прямоугольник 15","bbox":[1214.4,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/fapcz6ls","slide":10,"name":"Прямоугольник 16","bbox":[1192,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/ozitcv29","slide":10,"name":"Прямоугольник 17","bbox":[1214.4,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/p0ru503u","slide":10,"name":"Прямоугольник 18","bbox":[1192,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/xwnupgvy","slide":10,"name":"Прямоугольник 19","bbox":[1214.4,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/wvetgbud","slide":10,"name":"Прямоугольник 20","bbox":[1193.87,68,1.87,1.87]}
+{"kind":"shape","id":"sh/bu5cnqd8","slide":10,"name":"Прямоугольник 21","bbox":[1212.53,68,1.87,1.87]}
+{"kind":"shape","id":"sh/atwbelcn","slide":10,"name":"Прямоугольник 22","bbox":[1195.73,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/lk7ut0va","slide":10,"name":"Прямоугольник 23","bbox":[1210.67,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/kjytkvup","slide":10,"name":"Прямоугольник 24","bbox":[1197.6,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/jypcrqd4","slide":10,"name":"Прямоугольник 25","bbox":[1208.8,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/yxgbilcj","slide":10,"name":"Прямоугольник 26","bbox":[1199.47,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/1o3ahwvq","slide":10,"name":"Прямоугольник 27","bbox":[1206.93,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/0nut8rul","slide":10,"name":"Прямоугольник 28","bbox":[1201.33,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/q9srixs3","slide":10,"name":"Прямоугольник 29","bbox":[1205.07,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/ru18r2to","slide":10,"name":"Прямоугольник 30","bbox":[1203.2,77.33,1.87,1.87]}
+{"kind":"textbox","id":"sh/dwjqtcbu","slide":10,"name":"TextBox 32","text":"Рабочий прототип","textPreview":"Рабочий прототип","textChars":16,"textLines":1,"bbox":[64,65,1100,58]}
+{"kind":"shape","id":"sh/exsrmhsf","slide":10,"name":"Прямоугольник: скругленные углы 33","bbox":[64,138.67,742.55,466.67]}
+{"kind":"shape","id":"sh/bmpgrah8","slide":10,"name":"Прямоугольник: скругленные углы 39","bbox":[832,138.67,384,466.67]}
+{"kind":"textbox","id":"sh/algfy50n","slide":10,"name":"TextBox 40","text":"MVP","textPreview":"MVP","textChars":3,"textLines":1,"bbox":[864,168,266.67,40]}
+{"kind":"textbox","id":"sh/xo7ytkzy","slide":10,"name":"TextBox 41","text":"ЧТО УЖЕ РАБОТАЕТ","textPreview":"ЧТО УЖЕ РАБОТАЕТ","textChars":16,"textLines":1,"bbox":[864,234.67,320,16]}
+{"kind":"textbox","id":"sh/wnyx0fit","slide":10,"name":"TextBox 42","text":"Импорт, аналитика, бюджет и обновления","textPreview":"Импорт, аналитика, бюджет и обновления","textChars":38,"textLines":1,"bbox":[864,258.67,320,66.67]}
+{"kind":"textbox","id":"sh/jq9gvuh4","slide":10,"name":"TextBox 43","text":"ЧТО ПОКАЖЕМ","textPreview":"ЧТО ПОКАЖЕМ","textChars":11,"textLines":1,"bbox":[864,354.67,320,16]}
+{"kind":"textbox","id":"sh/ip0f2p0j","slide":10,"name":"TextBox 44","text":"Покупку на 12 000 ₽ и изменение лимита","textPreview":"Покупку на 12 000 ₽ и изменение лимита","textChars":38,"textLines":1,"bbox":[864,378.67,320,66.67]}
+{"kind":"textbox","id":"sh/5cryx4za","slide":10,"name":"TextBox 45","text":"СЦЕНАРИЙ ВЖИВУЮ","textPreview":"СЦЕНАРИЙ ВЖИВУЮ","textChars":15,"textLines":1,"bbox":[864,474.67,320,16]}
+{"kind":"textbox","id":"sh/kbix4zyp","slide":10,"name":"TextBox 46","text":"Две вкладки: лаборатория и обзор","textPreview":"Две вкладки: лаборатория и обзор","textChars":32,"textLines":1,"bbox":[864,498.67,320,66.67]}
+{"kind":"textbox","id":"sh/6d0f6pgv","slide":10,"text":"Скриншот работающего приложения на синтетических данных симулятора","textPreview":"Скриншот работающего приложения на синтетических данных симулятора","textChars":66,"textLines":1,"bbox":[64,628,1150,40]}
+{"kind":"image","id":"im/ozuhcjul","slide":10,"name":"","alt":"Обзор finly на синтетических данных симулятора","bbox":[75,159,720,405]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"Павел, 90 секунд на живую демонстрацию. Открыть обзор и лабораторию в двух вкладках с источником «Учебный банк + симулятор». Запомнить остаток, создать проведённый расход 12 000 ₽, показать изменение бюджета без перезагрузки. Уведомления зависят от настроек и порогов. При сбое показать этот скриншот и CSV-импорт. Скриншот: локальный finly, синтетический профиль, 27 сентября 2026."}
+{"kind":"slide","id":"sl/0qehxj","slide":11,"title":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textShapes":5}
+{"kind":"textbox","id":"sh/l8z658rq","slide":11,"name":"TextBox 1","text":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textPreview":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textChars":36,"textLines":1,"bbox":[64,34.67,800,18.67]}
+{"kind":"textbox","id":"sh/07qpcna5","slide":11,"name":"TextBox 2","text":"11 / 13","textPreview":"11 / 13","textChars":7,"textLines":1,"bbox":[1066.67,34.67,149.33,18.67]}
+{"kind":"shape","id":"sh/na1o7i9g","slide":11,"name":"Прямоугольник 3","bbox":[1195.73,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/m987edsv","slide":11,"name":"Прямоугольник 4","bbox":[1197.6,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/9cjq9srm","slide":11,"name":"Прямоугольник 5","bbox":[1199.47,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/8bapgna1","slide":11,"name":"Прямоугольник 6","bbox":[1206.93,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/3exovy9c","slide":11,"name":"Прямоугольник 7","bbox":[1208.8,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/2do72tsr","slide":11,"name":"Прямоугольник 8","bbox":[1210.67,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/kz69wze1","slide":11,"name":"Прямоугольник 9","bbox":[1193.87,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/lkzqp4f6","slide":11,"name":"Прямоугольник 10","bbox":[1201.33,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/yxorupwv","slide":11,"name":"Прямоугольник 11","bbox":[1205.07,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/jyx8nuxg","slide":11,"name":"Прямоугольник 12","bbox":[1212.53,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/8nq90zex","slide":11,"name":"Прямоугольник 13","bbox":[1192,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/tozqt4fi","slide":11,"name":"Прямоугольник 14","bbox":[1203.2,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/6l8ry9wr","slide":11,"name":"Прямоугольник 15","bbox":[1214.4,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/7mh8ruxc","slide":11,"name":"Прямоугольник 16","bbox":[1192,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/ormpofet","slide":11,"name":"Прямоугольник 17","bbox":[1214.4,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/9sfqhkfy","slide":11,"name":"Прямоугольник 18","bbox":[1192,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/5cne5c3q","slide":11,"name":"Прямоугольник 19","bbox":[1214.4,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/4bexw7m5","slide":11,"name":"Прямоугольник 20","bbox":[1193.87,68,1.87,1.87]}
+{"kind":"shape","id":"sh/3alw32lk","slide":11,"name":"Прямоугольник 21","bbox":[1212.53,68,1.87,1.87]}
+{"kind":"shape","id":"sh/i9cfux4z","slide":11,"name":"Прямоугольник 22","bbox":[1195.73,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/dgny9c32","slide":11,"name":"Прямоугольник 23","bbox":[1210.67,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/sfex0rmh","slide":11,"name":"Прямоугольник 24","bbox":[1197.6,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/re5g7mlw","slide":11,"name":"Прямоугольник 25","bbox":[1208.8,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/qdwfyh4b","slide":11,"name":"Прямоугольник 26","bbox":[1199.47,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/147ydw3y","slide":11,"name":"Прямоугольник 27","bbox":[1206.93,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/03yx4r2d","slide":11,"name":"Прямоугольник 28","bbox":[1201.33,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/yp8bytkv","slide":11,"name":"Прямоугольник 29","bbox":[1205.07,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/jqhc7y1g","slide":11,"name":"Прямоугольник 30","bbox":[1203.2,77.33,1.87,1.87]}
+{"kind":"textbox","id":"sh/lcju9ojm","slide":11,"name":"TextBox 32","text":"Альтернативы и фокус finly","textPreview":"Альтернативы и фокус finly","textChars":26,"textLines":1,"bbox":[64,61.33,1093.33,58.67]}
+{"kind":"textbox","id":"sh/7e1cby1c","slide":11,"text":"Гипотеза отличия: удобство сценария для студента со смешанным доходом","textPreview":"Гипотеза отличия: удобство сценария для студента со смешанным доходом","textChars":69,"textLines":1,"bbox":[64,582,1150,65]}
+{"kind":"textbox","id":"sh/8fad432x","slide":11,"text":"Преимущество и готовность платить ещё предстоит проверить на пилоте.","textPreview":"Преимущество и готовность платить ещё предстоит проверить на пилоте.","textChars":68,"textLines":1,"bbox":[64,660,1150,30]}
+{"kind":"table","id":"tb/54jqlw76","slide":11,"name":"","rows":4,"cols":3,"preview":"Решение | Возможности | Наш фокус","bbox":[64,188,1152,354]}
+{"kind":"notes","id":"nt/0qehxj","slide":11,"text":"Максим, 25 секунд. У существующих приложений уже есть планирование. Мы проверяем более узкий сценарий студентов со смешанным доходом. Не заявляем отсутствие аналогов. Источники возможностей: https://support.zenmoney.ru/knowledge-bases/2-baza-znanij/categories/55-planirovanie-byudzheta/articles ; https://about.coinkeeper.me/24674569 . Проверено 27 сентября 2026."}
+{"kind":"slide","id":"sl/jetc3ut0","slide":12,"title":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textShapes":14}
+{"kind":"textbox","id":"sh/xcryxg7y","slide":12,"name":"TextBox 1","text":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textPreview":"СТАРТАП-ХАКАТОН «ПЯТЫЙ ЭЛЕМЕНТ» 2026","textChars":36,"textLines":1,"bbox":[64,34.67,800,18.67]}
+{"kind":"textbox","id":"sh/wbih4b6d","slide":12,"name":"TextBox 2","text":"12 / 13","textPreview":"12 / 13","textChars":7,"textLines":1,"bbox":[1066.67,34.67,149.33,18.67]}
+{"kind":"shape","id":"sh/n69grmpw","slide":12,"name":"Прямоугольник 3","bbox":[1195.73,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/250zy18b","slide":12,"name":"Прямоугольник 4","bbox":[1197.6,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/98rytw72","slide":12,"name":"Прямоугольник 5","bbox":[1199.47,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/o7ih0r6h","slide":12,"name":"Прямоугольник 6","bbox":[1206.93,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/72t03qp0","slide":12,"name":"Прямоугольник 7","bbox":[1208.8,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/61kzalof","slide":12,"name":"Прямоугольник 8","bbox":[1210.67,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/ofqtgnyt","slide":12,"name":"Прямоугольник 9","bbox":[1193.87,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/9gza9sze","slide":12,"name":"Прямоугольник 10","bbox":[1201.33,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/mdobedg3","slide":12,"name":"Прямоугольник 11","bbox":[1205.07,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/nehs7iho","slide":12,"name":"Прямоугольник 12","bbox":[1212.53,60.53,1.87,1.87]}
+{"kind":"shape","id":"sh/0b6tc3yx","slide":12,"name":"Прямоугольник 13","bbox":[1192,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/1cfa58zi","slide":12,"name":"Прямоугольник 14","bbox":[1203.2,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/epobatgr","slide":12,"name":"Прямоугольник 15","bbox":[1214.4,62.4,1.87,1.87]}
+{"kind":"shape","id":"sh/zaxs3yhc","slide":12,"name":"Прямоугольник 16","bbox":[1192,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/cn6t83y1","slide":12,"name":"Прямоугольник 17","bbox":[1214.4,64.27,1.87,1.87]}
+{"kind":"shape","id":"sh/dofa18z6","slide":12,"name":"Прямоугольник 18","bbox":[1192,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/tsnip0ny","slide":12,"name":"Прямоугольник 19","bbox":[1214.4,66.13,1.87,1.87]}
+{"kind":"shape","id":"sh/87ehgv6d","slide":12,"name":"Прямоугольник 20","bbox":[1193.87,68,1.87,1.87]}
+{"kind":"shape","id":"sh/7650nq5s","slide":12,"name":"Прямоугольник 21","bbox":[1212.53,68,1.87,1.87]}
+{"kind":"shape","id":"sh/65wzelo7","slide":12,"name":"Прямоугольник 22","bbox":[1195.73,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/l43ilgn2","slide":12,"name":"Прямоугольник 23","bbox":[1210.67,69.87,1.87,1.87]}
+{"kind":"shape","id":"sh/k3uhcb6h","slide":12,"name":"Прямоугольник 24","bbox":[1197.6,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/j2lgjq5w","slide":12,"name":"Прямоугольник 25","bbox":[1208.8,71.73,1.87,1.87]}
+{"kind":"shape","id":"sh/y1czalob","slide":12,"name":"Прямоугольник 26","bbox":[1199.47,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/p07ixkn6","slide":12,"name":"Прямоугольник 27","bbox":[1206.93,73.6,1.87,1.87]}
+{"kind":"shape","id":"sh/4zyhofml","slide":12,"name":"Прямоугольник 28","bbox":[1201.33,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/m58fih43","slide":12,"name":"Прямоугольник 29","bbox":[1205.07,75.47,1.87,1.87]}
+{"kind":"shape","id":"sh/n61wbmlo","slide":12,"name":"Прямоугольник 30","bbox":[1203.2,77.33,1.87,1.87]}
+{"kind":"textbox","id":"sh/98jedc3u","slide":12,"name":"TextBox 32","text":"Развитие проекта","textPreview":"Развитие проекта","textChars":16,"textLines":1,"bbox":[64,61.33,1093.33,58.67]}
+{"kind":"shape","id":"sh/eh8fex47","slide":12,"name":"Прямая соединительная линия 33","bbox":[93.33,200,1093.33,0]}
+{"kind":"shape","id":"sh/z2hw72lc","slide":12,"name":"Овал 34","bbox":[90.67,186.67,26.67,26.67]}
+{"kind":"shape","id":"sh/03qxg7mx","slide":12,"name":"Прямоугольник: скругленные углы 35","bbox":[64,240,369.73,365.33]}
+{"kind":"textbox","id":"sh/14ze9c3i","slide":12,"name":"TextBox 36","text":"01  ХАКАТОН","textPreview":"01  ХАКАТОН","textChars":11,"textLines":1,"bbox":[93.33,269.33,311.07,18.67]}
+{"kind":"textbox","id":"sh/ydcfq1kb","slide":12,"name":"TextBox 37","text":"Рабочий MVP","textPreview":"Рабочий MVP","textChars":11,"textLines":1,"bbox":[93.33,309.33,311.07,80]}
+{"kind":"textbox","id":"sh/jylwj6lw","slide":12,"name":"TextBox 38","text":"Импорт выписок, учебный банк, бюджет, события и объяснения","textPreview":"Импорт выписок, учебный банк, бюджет, события и объяснения","textChars":58,"textLines":1,"bbox":[93.33,400,311.07,160]}
+{"kind":"shape","id":"sh/3qhsfypc","slide":12,"name":"Овал 39","bbox":[481.73,186.67,26.67,26.67]}
+{"kind":"shape","id":"sh/ip8bmtor","slide":12,"name":"Прямоугольник: скругленные углы 40","bbox":[455.07,240,369.73,365.33]}
+{"kind":"textbox","id":"sh/5sjah872","slide":12,"name":"TextBox 41","text":"02  БЛИЖАЙШИЙ ЭТАП","textPreview":"02  БЛИЖАЙШИЙ ЭТАП","textChars":18,"textLines":1,"bbox":[484.4,269.33,311.07,18.67]}
+{"kind":"textbox","id":"sh/4rato36h","slide":12,"name":"TextBox 42","text":"Пилот со студентами","textPreview":"Пилот со студентами","textChars":19,"textLines":1,"bbox":[484.4,309.33,311.07,80]}
+{"kind":"textbox","id":"sh/v2hsbyp0","slide":12,"name":"TextBox 43","text":"Проверить понятность лимита, повторное использование и готовность платить за автоматизацию","textPreview":"Проверить понятность лимита, повторное использование и готовность платить за автоматизацию","textChars":90,"textLines":1,"bbox":[484.4,400,311.07,160]}
+{"kind":"shape","id":"sh/u18bit8f","slide":12,"name":"Овал 44","bbox":[872.8,186.67,26.67,26.67]}
+{"kind":"shape","id":"sh/h4zado76","slide":12,"name":"Прямоугольник: скругленные углы 45","bbox":[846.13,240,369.73,365.33]}
+{"kind":"textbox","id":"sh/g3qtkj6l","slide":12,"name":"TextBox 46","text":"03  ПОСЛЕ ПРОВЕРКИ","textPreview":"03  ПОСЛЕ ПРОВЕРКИ","textChars":18,"textLines":1,"bbox":[875.47,269.33,311.07,18.67]}
+{"kind":"textbox","id":"sh/fy1cnipk","slide":12,"name":"TextBox 47","text":"Партнёрства","textPreview":"Партнёрства","textChars":11,"textLines":1,"bbox":[875.47,309.33,311.07,80]}
+{"kind":"textbox","id":"sh/exsbudoz","slide":12,"name":"TextBox 48","text":"Обсудить интеграции с банками и вузами. Доработать авторизацию и защиту данных.","textPreview":"Обсудить интеграции с банками и вузами. Доработать авторизацию и защиту данных.","textChars":79,"textLines":1,"bbox":[875.47,400,311.07,160]}
+{"kind":"textbox","id":"sh/c3mpof6h","slide":12,"name":"TextBox 49","text":"Следующие этапы зависят от результатов пилота","textPreview":"Следующие этапы зависят от результатов пилота","textChars":45,"textLines":1,"bbox":[64,143,1100,35]}
+{"kind":"textbox","id":"sh/x4vqhknm","slide":12,"text":"Модель дохода для проверки: Free с импортом, Pro с автоматизацией. Оплата в MVP не подключена.","textPreview":"Модель дохода для проверки: Free с импортом, Pro с автоматизацией. Оплата в MVP не подключена.","textChars":94,"textLines":1,"bbox":[64,639,1150,51]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":12,"text":"Максим, 25 секунд. Ближайший шаг — пилот со студентами. Смотрим на понятность бюджета и повторное использование, затем проверяем готовность платить. Банковские и вузовские партнёрства — гипотеза развития, а не заключённые соглашения."}
+{"kind":"slide","id":"sl/8f2psfyx","slide":13,"title":"ДЕМО И ИТОГ   ·   13 / 13","textShapes":14}
+{"kind":"shape","id":"sh/1gbm9s3a","slide":13,"name":"Background","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/0f2lgnmp","slide":13,"name":"TextBox 2","text":"ДЕМО И ИТОГ   ·   13 / 13","textPreview":"ДЕМО И ИТОГ   ·   13 / 13","textChars":25,"textLines":1,"bbox":[64,40,533.33,18.67]}
+{"kind":"shape","id":"sh/ra943il8","slide":13,"name":"Прямоугольник 3","bbox":[1195.73,40,1.87,1.87]}
+{"kind":"shape","id":"sh/q903ad4n","slide":13,"name":"Прямоугольник 4","bbox":[1197.6,40,1.87,1.87]}
+{"kind":"shape","id":"sh/dcbm583y","slide":13,"name":"Прямоугольник 5","bbox":[1199.47,40,1.87,1.87]}
+{"kind":"shape","id":"sh/sb2lcnmd","slide":13,"name":"Прямоугольник 6","bbox":[1206.93,40,1.87,1.87]}
+{"kind":"shape","id":"sh/b6d4f2lc","slide":13,"name":"Прямоугольник 7","bbox":[1208.8,40,1.87,1.87]}
+{"kind":"shape","id":"sh/a543mx4r","slide":13,"name":"Прямоугольник 8","bbox":[1210.67,40,1.87,1.87]}
+{"kind":"shape","id":"sh/wvupgz6t","slide":13,"name":"Прямоугольник 9","bbox":[1193.87,41.87,1.87,1.87]}
+{"kind":"shape","id":"sh/xw3q94ne","slide":13,"name":"Прямоугольник 10","bbox":[1201.33,41.87,1.87,1.87]}
+{"kind":"shape","id":"sh/atc7epon","slide":13,"name":"Прямоугольник 11","bbox":[1205.07,41.87,1.87,1.87]}
+{"kind":"shape","id":"sh/bulo7u58","slide":13,"name":"Прямоугольник 12","bbox":[1212.53,41.87,1.87,1.87]}
+{"kind":"shape","id":"sh/orapcf6h","slide":13,"name":"Прямоугольник 13","bbox":[1192,43.73,1.87,1.87]}
+{"kind":"shape","id":"sh/9sj65kn2","slide":13,"name":"Прямоугольник 14","bbox":[1203.2,43.73,1.87,1.87]}
+{"kind":"shape","id":"sh/mps7a5or","slide":13,"name":"Прямоугольник 15","bbox":[1214.4,43.73,1.87,1.87]}
+{"kind":"shape","id":"sh/nq1o3a5w","slide":13,"name":"Прямоугольник 16","bbox":[1192,45.6,1.87,1.87]}
+{"kind":"shape","id":"sh/0nap8f6l","slide":13,"name":"Прямоугольник 17","bbox":[1214.4,45.6,1.87,1.87]}
+{"kind":"shape","id":"sh/1oj61kn6","slide":13,"name":"Прямоугольник 18","bbox":[1192,47.47,1.87,1.87]}
+{"kind":"shape","id":"sh/hkbm5wzu","slide":13,"name":"Прямоугольник 19","bbox":[1214.4,47.47,1.87,1.87]}
+{"kind":"shape","id":"sh/gj25cry9","slide":13,"name":"Прямоугольник 20","bbox":[1193.87,49.33,1.87,1.87]}
+{"kind":"shape","id":"sh/fit436ho","slide":13,"name":"Прямоугольник 21","bbox":[1212.53,49.33,1.87,1.87]}
+{"kind":"shape","id":"sh/uh0na1g3","slide":13,"name":"Прямоугольник 22","bbox":[1195.73,51.2,1.87,1.87]}
+{"kind":"shape","id":"sh/tgrm1wzy","slide":13,"name":"Прямоугольник 23","bbox":[1210.67,51.2,1.87,1.87]}
+{"kind":"shape","id":"sh/sfi58ryd","slide":13,"name":"Прямоугольник 24","bbox":[1197.6,53.07,1.87,1.87]}
+{"kind":"shape","id":"sh/7u94zmhs","slide":13,"name":"Прямоугольник 25","bbox":[1208.8,53.07,1.87,1.87]}
+{"kind":"shape","id":"sh/6t0n6hg7","slide":13,"name":"Прямоугольник 26","bbox":[1199.47,54.93,1.87,1.87]}
+{"kind":"shape","id":"sh/dcv6dgz2","slide":13,"name":"Прямоугольник 27","bbox":[1206.93,54.93,1.87,1.87]}
+{"kind":"shape","id":"sh/cbm5kbyh","slide":13,"name":"Прямоугольник 28","bbox":[1201.33,56.8,1.87,1.87]}
+{"kind":"shape","id":"sh/alwbitsn","slide":13,"name":"Прямоугольник 29","bbox":[1205.07,56.8,1.87,1.87]}
+{"kind":"shape","id":"sh/bm5sryt8","slide":13,"name":"Прямоугольник 30","bbox":[1203.2,58.67,1.87,1.87]}
+{"kind":"shape","id":"sh/xonutobe","slide":13,"name":"Прямоугольник: скругленные углы 32","bbox":[64,85.33,560,200]}
+{"kind":"textbox","id":"sh/mhcbe9sr","slide":13,"name":"TextBox 33","text":"ДЕМО","textPreview":"ДЕМО","textChars":4,"textLines":1,"bbox":[96,112,496,16]}
+{"kind":"textbox","id":"sh/nilsnetc","slide":13,"name":"TextBox 34","text":"Покупка в симуляторе\nи пересчёт дневного бюджета","textPreview":"Покупка в симуляторе | и пересчёт дневного бюджета","textChars":48,"textLines":2,"bbox":[96,138.67,496,128]}
+{"kind":"shape","id":"sh/ojutgjah","slide":13,"name":"Прямоугольник: скругленные углы 35","bbox":[656,85.33,560,200]}
+{"kind":"textbox","id":"sh/9k3apob2","slide":13,"name":"TextBox 36","text":"ГЛАВНАЯ МЫСЛЬ","textPreview":"ГЛАВНАЯ МЫСЛЬ","textChars":13,"textLines":1,"bbox":[688,112,496,16]}
+{"kind":"textbox","id":"sh/6dgbqdsv","slide":13,"name":"TextBox 37","text":"Студент понимает, сколько может потратить сегодня","textPreview":"Студент понимает, сколько может потратить сегодня","textChars":49,"textLines":1,"bbox":[688,138.67,496,128]}
+{"kind":"textbox","id":"sh/7epczitg","slide":13,"name":"TextBox 38","text":"Спасибо за внимание","textPreview":"Спасибо за внимание","textChars":19,"textLines":1,"bbox":[64,349.33,1152,74.67]}
+{"kind":"textbox","id":"sh/r6l8vaxw","slide":13,"name":"TextBox 39","text":"Готовы показать продукт и ответить на вопросы.","textPreview":"Готовы показать продукт и ответить на вопросы.","textChars":46,"textLines":1,"bbox":[64,429.33,1152,32]}
+{"kind":"shape","id":"sh/q5c7m5wb","slide":13,"name":"Прямая соединительная линия 40","bbox":[64,560,1152,0]}
+{"kind":"textbox","id":"sh/d8nqxkf2","slide":13,"name":"TextBox 41","text":"ПРОТОТИП","textPreview":"ПРОТОТИП","textChars":8,"textLines":1,"bbox":[64,584,373.33,16]}
+{"kind":"textbox","id":"sh/s7epofeh","slide":13,"name":"TextBox 42","text":"Локальный MVP","textPreview":"Локальный MVP","textChars":13,"textLines":1,"bbox":[64,608,373.33,29.33]}
+{"kind":"textbox","id":"sh/j2lorqxk","slide":13,"name":"TextBox 43","text":"АУДИТОРИЯ","textPreview":"АУДИТОРИЯ","textChars":9,"textLines":1,"bbox":[464,584,373.33,16]}
+{"kind":"textbox","id":"sh/i1c7i5wf","slide":13,"name":"TextBox 44","text":"Студенты 18–25 лет","textPreview":"Студенты 18–25 лет","textChars":18,"textLines":1,"bbox":[464,608,373.33,29.33]}
+{"kind":"textbox","id":"sh/5436t0fq","slide":13,"name":"TextBox 45","text":"КОМАНДА","textPreview":"КОМАНДА","textChars":7,"textLines":1,"bbox":[864,584,373.33,16]}
+{"kind":"textbox","id":"sh/43upkve5","slide":13,"name":"TextBox 46","text":"Рыбы дипсика","textPreview":"Рыбы дипсика","textChars":12,"textLines":1,"bbox":[864,608,373.33,29.33]}
+{"kind":"textbox","id":"sh/nyp83ud4","slide":13,"name":"TextBox 47","text":"Стартап-хакатон «Пятый элемент» 2026 · 26–27 сентября · СФУ","textPreview":"Стартап-хакатон «Пятый элемент» 2026 · 26–27 сентября · СФУ","textChars":59,"textLines":1,"bbox":[64,666.67,1152,18.67]}
+{"kind":"image","id":"im/dkb2ps7y","slide":13,"name":"Рисунок 49","bbox":[315.09,7.67,692.49,72.13]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":13,"text":"Максим, 15 секунд. finly даёт студенту понятный ориентир на каждый день. Готовы показать детали прототипа и ответить на вопросы."}

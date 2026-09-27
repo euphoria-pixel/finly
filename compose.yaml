@@ -1,0 +1,30 @@
+name: stipendia-local-bank
+services:
+  bank-db:
+    image: postgres:15-alpine
+    environment:
+      POSTGRES_USER: bankuser
+      POSTGRES_DB: bankdemo
+      POSTGRES_PASSWORD: ${BIAB_DB_PASSWORD:?Set BIAB_DB_PASSWORD in .env}
+    volumes:
+      - bank-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U bankuser -d bankdemo"]
+      interval: 3s
+      timeout: 3s
+      retries: 20
+  bank:
+    build: infra/bank
+    environment:
+      DATABASE_URL: postgresql://bankuser:${BIAB_DB_PASSWORD}@bank-db:5432/bankdemo
+      SECRET_KEY: ${BIAB_SECRET_KEY:?Set BIAB_SECRET_KEY in .env}
+      BANK_CODE: campus
+      BANK_NAME: Кампус · учебный банк
+      BIAB_USERNAME: ${BIAB_USERNAME:-demo-student}
+      REGISTRY_URL: http://127.0.0.1:9
+    ports: ["127.0.0.1:8080:8000"]
+    depends_on:
+      bank-db:
+        condition: service_healthy
+volumes:
+  bank-data:
